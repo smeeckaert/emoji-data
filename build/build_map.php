@@ -162,6 +162,9 @@
 		$img_key = StrToLower(encode_points($row['unicode']));
 		$shorts = $short_names[StrToUpper($img_key)];
 		$name = $row['char_name']['title'];
+        if(empty($shorts)) {
+            $shorts = [str_replace(' ', '_', $name)];
+        }
 
 		if (preg_match("!^REGIONAL INDICATOR SYMBOL LETTERS !", $name)){
 			if (strlen($shorts[0]) == '2'){

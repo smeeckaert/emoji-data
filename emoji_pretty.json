@@ -21890,8 +21890,10 @@
         "image": "1f57a.png",
         "sheet_x": 21,
         "sheet_y": 25,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_dancing",
+        "short_names": [
+            "man_dancing"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -22313,8 +22315,10 @@
         "image": "1f5a4.png",
         "sheet_x": 22,
         "sheet_y": 6,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "black_heart",
+        "short_names": [
+            "black_heart"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -27415,8 +27419,10 @@
         "image": "1f6d1.png",
         "sheet_x": 27,
         "sheet_y": 13,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "stop_sign",
+        "short_names": [
+            "stop_sign"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -27437,8 +27443,10 @@
         "image": "1f6d2.png",
         "sheet_x": 27,
         "sheet_y": 14,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "shopping_cart",
+        "short_names": [
+            "shopping_cart"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -27723,8 +27731,10 @@
         "image": "1f6f4.png",
         "sheet_x": 27,
         "sheet_y": 26,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "kick_scooter",
+        "short_names": [
+            "kick_scooter"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -27745,8 +27755,10 @@
         "image": "1f6f5.png",
         "sheet_x": 27,
         "sheet_y": 27,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "motor_scooter",
+        "short_names": [
+            "motor_scooter"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -27767,8 +27779,10 @@
         "image": "1f6f6.png",
         "sheet_x": 27,
         "sheet_y": 28,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "canoe",
+        "short_names": [
+            "canoe"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28058,8 +28072,10 @@
         "image": "1f919.png",
         "sheet_x": 27,
         "sheet_y": 43,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "call_me_hand",
+        "short_names": [
+            "call_me_hand"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28132,8 +28148,10 @@
         "image": "1f91a.png",
         "sheet_x": 28,
         "sheet_y": 1,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_back_of_hand",
+        "short_names": [
+            "raised_back_of_hand"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28206,8 +28224,10 @@
         "image": "1f91b.png",
         "sheet_x": 28,
         "sheet_y": 7,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "left-facing_fist",
+        "short_names": [
+            "left-facing_fist"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28280,8 +28300,10 @@
         "image": "1f91c.png",
         "sheet_x": 28,
         "sheet_y": 13,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "right-facing_fist",
+        "short_names": [
+            "right-facing_fist"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28354,8 +28376,10 @@
         "image": "1f91d.png",
         "sheet_x": 28,
         "sheet_y": 19,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "handshake",
+        "short_names": [
+            "handshake"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28428,8 +28452,10 @@
         "image": "1f91e.png",
         "sheet_x": 28,
         "sheet_y": 25,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "crossed_fingers",
+        "short_names": [
+            "crossed_fingers"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28502,8 +28528,10 @@
         "image": "1f920.png",
         "sheet_x": 28,
         "sheet_y": 31,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "cowboy_hat_face",
+        "short_names": [
+            "cowboy_hat_face"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28524,8 +28552,10 @@
         "image": "1f921.png",
         "sheet_x": 28,
         "sheet_y": 32,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "clown_face",
+        "short_names": [
+            "clown_face"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28546,8 +28576,10 @@
         "image": "1f922.png",
         "sheet_x": 28,
         "sheet_y": 33,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "nauseated_face",
+        "short_names": [
+            "nauseated_face"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28568,8 +28600,10 @@
         "image": "1f923.png",
         "sheet_x": 28,
         "sheet_y": 34,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "rolling_on_the_floor_laughing",
+        "short_names": [
+            "rolling_on_the_floor_laughing"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28590,8 +28624,10 @@
         "image": "1f924.png",
         "sheet_x": 28,
         "sheet_y": 35,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "drooling_face",
+        "short_names": [
+            "drooling_face"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28612,8 +28648,10 @@
         "image": "1f925.png",
         "sheet_x": 28,
         "sheet_y": 36,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "lying_face",
+        "short_names": [
+            "lying_face"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28634,8 +28672,10 @@
         "image": "1f926.png",
         "sheet_x": 28,
         "sheet_y": 37,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_facepalming",
+        "short_names": [
+            "person_facepalming"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28708,8 +28748,10 @@
         "image": "1f927.png",
         "sheet_x": 28,
         "sheet_y": 43,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "sneezing_face",
+        "short_names": [
+            "sneezing_face"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28730,8 +28772,10 @@
         "image": "1f930.png",
         "sheet_x": 28,
         "sheet_y": 44,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "pregnant_woman",
+        "short_names": [
+            "pregnant_woman"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28804,8 +28848,10 @@
         "image": "1f933.png",
         "sheet_x": 29,
         "sheet_y": 2,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "selfie",
+        "short_names": [
+            "selfie"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28878,8 +28924,10 @@
         "image": "1f934.png",
         "sheet_x": 29,
         "sheet_y": 8,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "prince",
+        "short_names": [
+            "prince"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -28952,8 +29000,10 @@
         "image": "1f935.png",
         "sheet_x": 29,
         "sheet_y": 14,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_in_tuxedo",
+        "short_names": [
+            "man_in_tuxedo"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29026,8 +29076,10 @@
         "image": "1f936.png",
         "sheet_x": 29,
         "sheet_y": 20,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "Mrs._Claus",
+        "short_names": [
+            "Mrs._Claus"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29100,8 +29152,10 @@
         "image": "1f937.png",
         "sheet_x": 29,
         "sheet_y": 26,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_shrugging",
+        "short_names": [
+            "person_shrugging"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29174,8 +29228,10 @@
         "image": "1f938.png",
         "sheet_x": 29,
         "sheet_y": 32,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_cartwheeling",
+        "short_names": [
+            "person_cartwheeling"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29248,8 +29304,10 @@
         "image": "1f939.png",
         "sheet_x": 29,
         "sheet_y": 38,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_juggling",
+        "short_names": [
+            "person_juggling"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29322,8 +29380,10 @@
         "image": "1f93a.png",
         "sheet_x": 29,
         "sheet_y": 44,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_fencing",
+        "short_names": [
+            "person_fencing"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29344,8 +29404,10 @@
         "image": "1f93c.png",
         "sheet_x": 29,
         "sheet_y": 45,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "people_wrestling",
+        "short_names": [
+            "people_wrestling"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29418,8 +29480,10 @@
         "image": "1f93d.png",
         "sheet_x": 30,
         "sheet_y": 3,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_playing_water_polo",
+        "short_names": [
+            "person_playing_water_polo"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29492,8 +29556,10 @@
         "image": "1f93e.png",
         "sheet_x": 30,
         "sheet_y": 9,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_playing_handball",
+        "short_names": [
+            "person_playing_handball"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29566,8 +29632,10 @@
         "image": "1f940.png",
         "sheet_x": 30,
         "sheet_y": 15,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "wilted_flower",
+        "short_names": [
+            "wilted_flower"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29588,8 +29656,10 @@
         "image": "1f941.png",
         "sheet_x": 30,
         "sheet_y": 16,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "drum",
+        "short_names": [
+            "drum"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29610,8 +29680,10 @@
         "image": "1f942.png",
         "sheet_x": 30,
         "sheet_y": 17,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "clinking_glasses",
+        "short_names": [
+            "clinking_glasses"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29632,8 +29704,10 @@
         "image": "1f943.png",
         "sheet_x": 30,
         "sheet_y": 18,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "tumbler_glass",
+        "short_names": [
+            "tumbler_glass"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29654,8 +29728,10 @@
         "image": "1f944.png",
         "sheet_x": 30,
         "sheet_y": 19,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "spoon",
+        "short_names": [
+            "spoon"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29676,8 +29752,10 @@
         "image": "1f945.png",
         "sheet_x": 30,
         "sheet_y": 20,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "goal_net",
+        "short_names": [
+            "goal_net"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29698,8 +29776,10 @@
         "image": "1f947.png",
         "sheet_x": 30,
         "sheet_y": 21,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "1st_place_medal",
+        "short_names": [
+            "1st_place_medal"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29720,8 +29800,10 @@
         "image": "1f948.png",
         "sheet_x": 30,
         "sheet_y": 22,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "2nd_place_medal",
+        "short_names": [
+            "2nd_place_medal"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29742,8 +29824,10 @@
         "image": "1f949.png",
         "sheet_x": 30,
         "sheet_y": 23,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "3rd_place_medal",
+        "short_names": [
+            "3rd_place_medal"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29764,8 +29848,10 @@
         "image": "1f94a.png",
         "sheet_x": 30,
         "sheet_y": 24,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "boxing_glove",
+        "short_names": [
+            "boxing_glove"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29786,8 +29872,10 @@
         "image": "1f94b.png",
         "sheet_x": 30,
         "sheet_y": 25,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "martial_arts_uniform",
+        "short_names": [
+            "martial_arts_uniform"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29808,8 +29896,10 @@
         "image": "1f950.png",
         "sheet_x": 30,
         "sheet_y": 26,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "croissant",
+        "short_names": [
+            "croissant"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29830,8 +29920,10 @@
         "image": "1f951.png",
         "sheet_x": 30,
         "sheet_y": 27,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "avocado",
+        "short_names": [
+            "avocado"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29852,8 +29944,10 @@
         "image": "1f952.png",
         "sheet_x": 30,
         "sheet_y": 28,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "cucumber",
+        "short_names": [
+            "cucumber"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29874,8 +29968,10 @@
         "image": "1f953.png",
         "sheet_x": 30,
         "sheet_y": 29,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "bacon",
+        "short_names": [
+            "bacon"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29896,8 +29992,10 @@
         "image": "1f954.png",
         "sheet_x": 30,
         "sheet_y": 30,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "potato",
+        "short_names": [
+            "potato"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29918,8 +30016,10 @@
         "image": "1f955.png",
         "sheet_x": 30,
         "sheet_y": 31,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "carrot",
+        "short_names": [
+            "carrot"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29940,8 +30040,10 @@
         "image": "1f956.png",
         "sheet_x": 30,
         "sheet_y": 32,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "baguette_bread",
+        "short_names": [
+            "baguette_bread"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29962,8 +30064,10 @@
         "image": "1f957.png",
         "sheet_x": 30,
         "sheet_y": 33,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "green_salad",
+        "short_names": [
+            "green_salad"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -29984,8 +30088,10 @@
         "image": "1f958.png",
         "sheet_x": 30,
         "sheet_y": 34,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "shallow_pan_of_food",
+        "short_names": [
+            "shallow_pan_of_food"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30006,8 +30112,10 @@
         "image": "1f959.png",
         "sheet_x": 30,
         "sheet_y": 35,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "stuffed_flatbread",
+        "short_names": [
+            "stuffed_flatbread"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30028,8 +30136,10 @@
         "image": "1f95a.png",
         "sheet_x": 30,
         "sheet_y": 36,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "egg",
+        "short_names": [
+            "egg"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30050,8 +30160,10 @@
         "image": "1f95b.png",
         "sheet_x": 30,
         "sheet_y": 37,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "glass_of_milk",
+        "short_names": [
+            "glass_of_milk"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30072,8 +30184,10 @@
         "image": "1f95c.png",
         "sheet_x": 30,
         "sheet_y": 38,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "peanuts",
+        "short_names": [
+            "peanuts"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30094,8 +30208,10 @@
         "image": "1f95d.png",
         "sheet_x": 30,
         "sheet_y": 39,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "kiwi_fruit",
+        "short_names": [
+            "kiwi_fruit"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30116,8 +30232,10 @@
         "image": "1f95e.png",
         "sheet_x": 30,
         "sheet_y": 40,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "pancakes",
+        "short_names": [
+            "pancakes"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30258,8 +30376,10 @@
         "image": "1f985.png",
         "sheet_x": 30,
         "sheet_y": 46,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "eagle",
+        "short_names": [
+            "eagle"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30280,8 +30400,10 @@
         "image": "1f986.png",
         "sheet_x": 30,
         "sheet_y": 47,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "duck",
+        "short_names": [
+            "duck"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30302,8 +30424,10 @@
         "image": "1f987.png",
         "sheet_x": 31,
         "sheet_y": 0,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "bat",
+        "short_names": [
+            "bat"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30324,8 +30448,10 @@
         "image": "1f988.png",
         "sheet_x": 31,
         "sheet_y": 1,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "shark",
+        "short_names": [
+            "shark"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30346,8 +30472,10 @@
         "image": "1f989.png",
         "sheet_x": 31,
         "sheet_y": 2,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "owl",
+        "short_names": [
+            "owl"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30368,8 +30496,10 @@
         "image": "1f98a.png",
         "sheet_x": 31,
         "sheet_y": 3,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "fox_face",
+        "short_names": [
+            "fox_face"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30390,8 +30520,10 @@
         "image": "1f98b.png",
         "sheet_x": 31,
         "sheet_y": 4,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "butterfly",
+        "short_names": [
+            "butterfly"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30412,8 +30544,10 @@
         "image": "1f98c.png",
         "sheet_x": 31,
         "sheet_y": 5,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "deer",
+        "short_names": [
+            "deer"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30434,8 +30568,10 @@
         "image": "1f98d.png",
         "sheet_x": 31,
         "sheet_y": 6,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "gorilla",
+        "short_names": [
+            "gorilla"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30456,8 +30592,10 @@
         "image": "1f98e.png",
         "sheet_x": 31,
         "sheet_y": 7,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "lizard",
+        "short_names": [
+            "lizard"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30478,8 +30616,10 @@
         "image": "1f98f.png",
         "sheet_x": 31,
         "sheet_y": 8,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "rhinoceros",
+        "short_names": [
+            "rhinoceros"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30500,8 +30640,10 @@
         "image": "1f990.png",
         "sheet_x": 31,
         "sheet_y": 9,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "shrimp",
+        "short_names": [
+            "shrimp"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30522,8 +30664,10 @@
         "image": "1f991.png",
         "sheet_x": 31,
         "sheet_y": 10,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "squid",
+        "short_names": [
+            "squid"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30577,7 +30721,7 @@
         "text": null,
         "texts": null,
         "category": "Symbols",
-        "sort_order": 191,
+        "sort_order": 190,
         "has_img_apple": true,
         "has_img_google": true,
         "has_img_twitter": true,
@@ -30731,7 +30875,7 @@
         "text": null,
         "texts": null,
         "category": "Symbols",
-        "sort_order": 143,
+        "sort_order": 142,
         "has_img_apple": true,
         "has_img_google": true,
         "has_img_twitter": true,
@@ -30757,7 +30901,7 @@
         "text": null,
         "texts": null,
         "category": "Symbols",
-        "sort_order": 145,
+        "sort_order": 144,
         "has_img_apple": true,
         "has_img_google": true,
         "has_img_twitter": true,
@@ -30835,7 +30979,7 @@
         "text": null,
         "texts": null,
         "category": "Symbols",
-        "sort_order": 151,
+        "sort_order": 150,
         "has_img_apple": true,
         "has_img_google": true,
         "has_img_twitter": true,
@@ -30878,8 +31022,10 @@
         "image": "261d-1f3fb.png",
         "sheet_x": 31,
         "sheet_y": 24,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "index_pointing_up:_light_skin_tone",
+        "short_names": [
+            "index_pointing_up:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30900,8 +31046,10 @@
         "image": "261d-1f3fc.png",
         "sheet_x": 31,
         "sheet_y": 25,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "index_pointing_up:_medium-light_skin_tone",
+        "short_names": [
+            "index_pointing_up:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30922,8 +31070,10 @@
         "image": "261d-1f3fd.png",
         "sheet_x": 31,
         "sheet_y": 26,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "index_pointing_up:_medium_skin_tone",
+        "short_names": [
+            "index_pointing_up:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30944,8 +31094,10 @@
         "image": "261d-1f3fe.png",
         "sheet_x": 31,
         "sheet_y": 27,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "index_pointing_up:_medium-dark_skin_tone",
+        "short_names": [
+            "index_pointing_up:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30966,8 +31118,10 @@
         "image": "261d-1f3ff.png",
         "sheet_x": 31,
         "sheet_y": 28,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "index_pointing_up:_dark_skin_tone",
+        "short_names": [
+            "index_pointing_up:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -30988,8 +31142,10 @@
         "image": "26f9-1f3fb.png",
         "sheet_x": 31,
         "sheet_y": 29,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_bouncing_ball:_light_skin_tone",
+        "short_names": [
+            "person_bouncing_ball:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31010,8 +31166,10 @@
         "image": "26f9-1f3fc.png",
         "sheet_x": 31,
         "sheet_y": 30,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_bouncing_ball:_medium-light_skin_tone",
+        "short_names": [
+            "person_bouncing_ball:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31032,8 +31190,10 @@
         "image": "26f9-1f3fd.png",
         "sheet_x": 31,
         "sheet_y": 31,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_bouncing_ball:_medium_skin_tone",
+        "short_names": [
+            "person_bouncing_ball:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31054,8 +31214,10 @@
         "image": "26f9-1f3fe.png",
         "sheet_x": 31,
         "sheet_y": 32,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_bouncing_ball:_medium-dark_skin_tone",
+        "short_names": [
+            "person_bouncing_ball:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31076,8 +31238,10 @@
         "image": "26f9-1f3ff.png",
         "sheet_x": 31,
         "sheet_y": 33,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_bouncing_ball:_dark_skin_tone",
+        "short_names": [
+            "person_bouncing_ball:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31098,8 +31262,10 @@
         "image": "270a-1f3fb.png",
         "sheet_x": 31,
         "sheet_y": 34,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_fist:_light_skin_tone",
+        "short_names": [
+            "raised_fist:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31120,8 +31286,10 @@
         "image": "270a-1f3fc.png",
         "sheet_x": 31,
         "sheet_y": 35,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_fist:_medium-light_skin_tone",
+        "short_names": [
+            "raised_fist:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31142,8 +31310,10 @@
         "image": "270a-1f3fd.png",
         "sheet_x": 31,
         "sheet_y": 36,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_fist:_medium_skin_tone",
+        "short_names": [
+            "raised_fist:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31164,8 +31334,10 @@
         "image": "270a-1f3fe.png",
         "sheet_x": 31,
         "sheet_y": 37,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_fist:_medium-dark_skin_tone",
+        "short_names": [
+            "raised_fist:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31186,8 +31358,10 @@
         "image": "270a-1f3ff.png",
         "sheet_x": 31,
         "sheet_y": 38,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_fist:_dark_skin_tone",
+        "short_names": [
+            "raised_fist:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31208,8 +31382,10 @@
         "image": "270b-1f3fb.png",
         "sheet_x": 31,
         "sheet_y": 39,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_hand:_light_skin_tone",
+        "short_names": [
+            "raised_hand:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31230,8 +31406,10 @@
         "image": "270b-1f3fc.png",
         "sheet_x": 31,
         "sheet_y": 40,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_hand:_medium-light_skin_tone",
+        "short_names": [
+            "raised_hand:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31252,8 +31430,10 @@
         "image": "270b-1f3fd.png",
         "sheet_x": 31,
         "sheet_y": 41,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_hand:_medium_skin_tone",
+        "short_names": [
+            "raised_hand:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31274,8 +31454,10 @@
         "image": "270b-1f3fe.png",
         "sheet_x": 31,
         "sheet_y": 42,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_hand:_medium-dark_skin_tone",
+        "short_names": [
+            "raised_hand:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31296,8 +31478,10 @@
         "image": "270b-1f3ff.png",
         "sheet_x": 31,
         "sheet_y": 43,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_hand:_dark_skin_tone",
+        "short_names": [
+            "raised_hand:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31318,8 +31502,10 @@
         "image": "270c-1f3fb.png",
         "sheet_x": 31,
         "sheet_y": 44,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "victory_hand:_light_skin_tone",
+        "short_names": [
+            "victory_hand:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31340,8 +31526,10 @@
         "image": "270c-1f3fc.png",
         "sheet_x": 31,
         "sheet_y": 45,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "victory_hand:_medium-light_skin_tone",
+        "short_names": [
+            "victory_hand:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31362,8 +31550,10 @@
         "image": "270c-1f3fd.png",
         "sheet_x": 31,
         "sheet_y": 46,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "victory_hand:_medium_skin_tone",
+        "short_names": [
+            "victory_hand:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31384,8 +31574,10 @@
         "image": "270c-1f3fe.png",
         "sheet_x": 31,
         "sheet_y": 47,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "victory_hand:_medium-dark_skin_tone",
+        "short_names": [
+            "victory_hand:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31406,8 +31598,10 @@
         "image": "270c-1f3ff.png",
         "sheet_x": 32,
         "sheet_y": 0,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "victory_hand:_dark_skin_tone",
+        "short_names": [
+            "victory_hand:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31428,8 +31622,10 @@
         "image": "270d-1f3fb.png",
         "sheet_x": 32,
         "sheet_y": 1,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "writing_hand:_light_skin_tone",
+        "short_names": [
+            "writing_hand:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31450,8 +31646,10 @@
         "image": "270d-1f3fc.png",
         "sheet_x": 32,
         "sheet_y": 2,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "writing_hand:_medium-light_skin_tone",
+        "short_names": [
+            "writing_hand:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31472,8 +31670,10 @@
         "image": "270d-1f3fd.png",
         "sheet_x": 32,
         "sheet_y": 3,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "writing_hand:_medium_skin_tone",
+        "short_names": [
+            "writing_hand:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31494,8 +31694,10 @@
         "image": "270d-1f3fe.png",
         "sheet_x": 32,
         "sheet_y": 4,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "writing_hand:_medium-dark_skin_tone",
+        "short_names": [
+            "writing_hand:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -31516,8 +31718,10 @@
         "image": "270d-1f3ff.png",
         "sheet_x": 32,
         "sheet_y": 5,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "writing_hand:_dark_skin_tone",
+        "short_names": [
+            "writing_hand:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -37707,8 +37911,10 @@
         "image": "1f385-1f3fb.png",
         "sheet_x": 37,
         "sheet_y": 23,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "Santa_Claus:_light_skin_tone",
+        "short_names": [
+            "Santa_Claus:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -37729,8 +37935,10 @@
         "image": "1f385-1f3fc.png",
         "sheet_x": 37,
         "sheet_y": 24,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "Santa_Claus:_medium-light_skin_tone",
+        "short_names": [
+            "Santa_Claus:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -37751,8 +37959,10 @@
         "image": "1f385-1f3fd.png",
         "sheet_x": 37,
         "sheet_y": 25,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "Santa_Claus:_medium_skin_tone",
+        "short_names": [
+            "Santa_Claus:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -37773,8 +37983,10 @@
         "image": "1f385-1f3fe.png",
         "sheet_x": 37,
         "sheet_y": 26,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "Santa_Claus:_medium-dark_skin_tone",
+        "short_names": [
+            "Santa_Claus:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -37795,8 +38007,10 @@
         "image": "1f385-1f3ff.png",
         "sheet_x": 37,
         "sheet_y": 27,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "Santa_Claus:_dark_skin_tone",
+        "short_names": [
+            "Santa_Claus:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -37817,8 +38031,10 @@
         "image": "1f3c3-1f3fb.png",
         "sheet_x": 37,
         "sheet_y": 28,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_running:_light_skin_tone",
+        "short_names": [
+            "person_running:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -37839,8 +38055,10 @@
         "image": "1f3c3-1f3fc.png",
         "sheet_x": 37,
         "sheet_y": 29,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_running:_medium-light_skin_tone",
+        "short_names": [
+            "person_running:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -37861,8 +38079,10 @@
         "image": "1f3c3-1f3fd.png",
         "sheet_x": 37,
         "sheet_y": 30,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_running:_medium_skin_tone",
+        "short_names": [
+            "person_running:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -37883,8 +38103,10 @@
         "image": "1f3c3-1f3fe.png",
         "sheet_x": 37,
         "sheet_y": 31,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_running:_medium-dark_skin_tone",
+        "short_names": [
+            "person_running:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -37905,8 +38127,10 @@
         "image": "1f3c3-1f3ff.png",
         "sheet_x": 37,
         "sheet_y": 32,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_running:_dark_skin_tone",
+        "short_names": [
+            "person_running:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -37927,8 +38151,10 @@
         "image": "1f3c4-1f3fb.png",
         "sheet_x": 37,
         "sheet_y": 33,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_surfing:_light_skin_tone",
+        "short_names": [
+            "person_surfing:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -37949,8 +38175,10 @@
         "image": "1f3c4-1f3fc.png",
         "sheet_x": 37,
         "sheet_y": 34,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_surfing:_medium-light_skin_tone",
+        "short_names": [
+            "person_surfing:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -37971,8 +38199,10 @@
         "image": "1f3c4-1f3fd.png",
         "sheet_x": 37,
         "sheet_y": 35,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_surfing:_medium_skin_tone",
+        "short_names": [
+            "person_surfing:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -37993,8 +38223,10 @@
         "image": "1f3c4-1f3fe.png",
         "sheet_x": 37,
         "sheet_y": 36,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_surfing:_medium-dark_skin_tone",
+        "short_names": [
+            "person_surfing:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38015,8 +38247,10 @@
         "image": "1f3c4-1f3ff.png",
         "sheet_x": 37,
         "sheet_y": 37,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_surfing:_dark_skin_tone",
+        "short_names": [
+            "person_surfing:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38037,8 +38271,10 @@
         "image": "1f3ca-1f3fb.png",
         "sheet_x": 37,
         "sheet_y": 38,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_swimming:_light_skin_tone",
+        "short_names": [
+            "person_swimming:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38059,8 +38295,10 @@
         "image": "1f3ca-1f3fc.png",
         "sheet_x": 37,
         "sheet_y": 39,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_swimming:_medium-light_skin_tone",
+        "short_names": [
+            "person_swimming:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38081,8 +38319,10 @@
         "image": "1f3ca-1f3fd.png",
         "sheet_x": 37,
         "sheet_y": 40,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_swimming:_medium_skin_tone",
+        "short_names": [
+            "person_swimming:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38103,8 +38343,10 @@
         "image": "1f3ca-1f3fe.png",
         "sheet_x": 37,
         "sheet_y": 41,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_swimming:_medium-dark_skin_tone",
+        "short_names": [
+            "person_swimming:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38125,8 +38367,10 @@
         "image": "1f3ca-1f3ff.png",
         "sheet_x": 37,
         "sheet_y": 42,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_swimming:_dark_skin_tone",
+        "short_names": [
+            "person_swimming:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38147,8 +38391,10 @@
         "image": "1f3cb-1f3fb.png",
         "sheet_x": 37,
         "sheet_y": 43,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_lifting_weights:_light_skin_tone",
+        "short_names": [
+            "person_lifting_weights:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38169,8 +38415,10 @@
         "image": "1f3cb-1f3fc.png",
         "sheet_x": 37,
         "sheet_y": 44,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_lifting_weights:_medium-light_skin_tone",
+        "short_names": [
+            "person_lifting_weights:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38191,8 +38439,10 @@
         "image": "1f3cb-1f3fd.png",
         "sheet_x": 37,
         "sheet_y": 45,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_lifting_weights:_medium_skin_tone",
+        "short_names": [
+            "person_lifting_weights:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38213,8 +38463,10 @@
         "image": "1f3cb-1f3fe.png",
         "sheet_x": 37,
         "sheet_y": 46,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_lifting_weights:_medium-dark_skin_tone",
+        "short_names": [
+            "person_lifting_weights:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38235,8 +38487,10 @@
         "image": "1f3cb-1f3ff.png",
         "sheet_x": 37,
         "sheet_y": 47,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_lifting_weights:_dark_skin_tone",
+        "short_names": [
+            "person_lifting_weights:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38257,8 +38511,10 @@
         "image": "1f442-1f3fb.png",
         "sheet_x": 38,
         "sheet_y": 0,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "ear:_light_skin_tone",
+        "short_names": [
+            "ear:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38279,8 +38535,10 @@
         "image": "1f442-1f3fc.png",
         "sheet_x": 38,
         "sheet_y": 1,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "ear:_medium-light_skin_tone",
+        "short_names": [
+            "ear:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38301,8 +38559,10 @@
         "image": "1f442-1f3fd.png",
         "sheet_x": 38,
         "sheet_y": 2,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "ear:_medium_skin_tone",
+        "short_names": [
+            "ear:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38323,8 +38583,10 @@
         "image": "1f442-1f3fe.png",
         "sheet_x": 38,
         "sheet_y": 3,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "ear:_medium-dark_skin_tone",
+        "short_names": [
+            "ear:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38345,8 +38607,10 @@
         "image": "1f442-1f3ff.png",
         "sheet_x": 38,
         "sheet_y": 4,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "ear:_dark_skin_tone",
+        "short_names": [
+            "ear:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38367,8 +38631,10 @@
         "image": "1f443-1f3fb.png",
         "sheet_x": 38,
         "sheet_y": 5,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "nose:_light_skin_tone",
+        "short_names": [
+            "nose:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38389,8 +38655,10 @@
         "image": "1f443-1f3fc.png",
         "sheet_x": 38,
         "sheet_y": 6,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "nose:_medium-light_skin_tone",
+        "short_names": [
+            "nose:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38411,8 +38679,10 @@
         "image": "1f443-1f3fd.png",
         "sheet_x": 38,
         "sheet_y": 7,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "nose:_medium_skin_tone",
+        "short_names": [
+            "nose:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38433,8 +38703,10 @@
         "image": "1f443-1f3fe.png",
         "sheet_x": 38,
         "sheet_y": 8,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "nose:_medium-dark_skin_tone",
+        "short_names": [
+            "nose:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38455,8 +38727,10 @@
         "image": "1f443-1f3ff.png",
         "sheet_x": 38,
         "sheet_y": 9,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "nose:_dark_skin_tone",
+        "short_names": [
+            "nose:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38477,8 +38751,10 @@
         "image": "1f446-1f3fb.png",
         "sheet_x": 38,
         "sheet_y": 10,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_up:_light_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_up:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38499,8 +38775,10 @@
         "image": "1f446-1f3fc.png",
         "sheet_x": 38,
         "sheet_y": 11,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_up:_medium-light_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_up:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38521,8 +38799,10 @@
         "image": "1f446-1f3fd.png",
         "sheet_x": 38,
         "sheet_y": 12,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_up:_medium_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_up:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38543,8 +38823,10 @@
         "image": "1f446-1f3fe.png",
         "sheet_x": 38,
         "sheet_y": 13,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_up:_medium-dark_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_up:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38565,8 +38847,10 @@
         "image": "1f446-1f3ff.png",
         "sheet_x": 38,
         "sheet_y": 14,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_up:_dark_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_up:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38587,8 +38871,10 @@
         "image": "1f447-1f3fb.png",
         "sheet_x": 38,
         "sheet_y": 15,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_down:_light_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_down:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38609,8 +38895,10 @@
         "image": "1f447-1f3fc.png",
         "sheet_x": 38,
         "sheet_y": 16,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_down:_medium-light_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_down:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38631,8 +38919,10 @@
         "image": "1f447-1f3fd.png",
         "sheet_x": 38,
         "sheet_y": 17,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_down:_medium_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_down:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38653,8 +38943,10 @@
         "image": "1f447-1f3fe.png",
         "sheet_x": 38,
         "sheet_y": 18,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_down:_medium-dark_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_down:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38675,8 +38967,10 @@
         "image": "1f447-1f3ff.png",
         "sheet_x": 38,
         "sheet_y": 19,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_down:_dark_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_down:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38697,8 +38991,10 @@
         "image": "1f448-1f3fb.png",
         "sheet_x": 38,
         "sheet_y": 20,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_left:_light_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_left:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38719,8 +39015,10 @@
         "image": "1f448-1f3fc.png",
         "sheet_x": 38,
         "sheet_y": 21,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_left:_medium-light_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_left:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38741,8 +39039,10 @@
         "image": "1f448-1f3fd.png",
         "sheet_x": 38,
         "sheet_y": 22,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_left:_medium_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_left:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38763,8 +39063,10 @@
         "image": "1f448-1f3fe.png",
         "sheet_x": 38,
         "sheet_y": 23,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_left:_medium-dark_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_left:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38785,8 +39087,10 @@
         "image": "1f448-1f3ff.png",
         "sheet_x": 38,
         "sheet_y": 24,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_left:_dark_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_left:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38807,8 +39111,10 @@
         "image": "1f449-1f3fb.png",
         "sheet_x": 38,
         "sheet_y": 25,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_right:_light_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_right:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38829,8 +39135,10 @@
         "image": "1f449-1f3fc.png",
         "sheet_x": 38,
         "sheet_y": 26,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_right:_medium-light_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_right:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38851,8 +39159,10 @@
         "image": "1f449-1f3fd.png",
         "sheet_x": 38,
         "sheet_y": 27,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_right:_medium_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_right:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38873,8 +39183,10 @@
         "image": "1f449-1f3fe.png",
         "sheet_x": 38,
         "sheet_y": 28,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_right:_medium-dark_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_right:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38895,8 +39207,10 @@
         "image": "1f449-1f3ff.png",
         "sheet_x": 38,
         "sheet_y": 29,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "backhand_index_pointing_right:_dark_skin_tone",
+        "short_names": [
+            "backhand_index_pointing_right:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38917,8 +39231,10 @@
         "image": "1f44a-1f3fb.png",
         "sheet_x": 38,
         "sheet_y": 30,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "oncoming_fist:_light_skin_tone",
+        "short_names": [
+            "oncoming_fist:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38939,8 +39255,10 @@
         "image": "1f44a-1f3fc.png",
         "sheet_x": 38,
         "sheet_y": 31,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "oncoming_fist:_medium-light_skin_tone",
+        "short_names": [
+            "oncoming_fist:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38961,8 +39279,10 @@
         "image": "1f44a-1f3fd.png",
         "sheet_x": 38,
         "sheet_y": 32,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "oncoming_fist:_medium_skin_tone",
+        "short_names": [
+            "oncoming_fist:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -38983,8 +39303,10 @@
         "image": "1f44a-1f3fe.png",
         "sheet_x": 38,
         "sheet_y": 33,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "oncoming_fist:_medium-dark_skin_tone",
+        "short_names": [
+            "oncoming_fist:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39005,8 +39327,10 @@
         "image": "1f44a-1f3ff.png",
         "sheet_x": 38,
         "sheet_y": 34,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "oncoming_fist:_dark_skin_tone",
+        "short_names": [
+            "oncoming_fist:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39027,8 +39351,10 @@
         "image": "1f44b-1f3fb.png",
         "sheet_x": 38,
         "sheet_y": 35,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "waving_hand:_light_skin_tone",
+        "short_names": [
+            "waving_hand:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39049,8 +39375,10 @@
         "image": "1f44b-1f3fc.png",
         "sheet_x": 38,
         "sheet_y": 36,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "waving_hand:_medium-light_skin_tone",
+        "short_names": [
+            "waving_hand:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39071,8 +39399,10 @@
         "image": "1f44b-1f3fd.png",
         "sheet_x": 38,
         "sheet_y": 37,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "waving_hand:_medium_skin_tone",
+        "short_names": [
+            "waving_hand:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39093,8 +39423,10 @@
         "image": "1f44b-1f3fe.png",
         "sheet_x": 38,
         "sheet_y": 38,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "waving_hand:_medium-dark_skin_tone",
+        "short_names": [
+            "waving_hand:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39115,8 +39447,10 @@
         "image": "1f44b-1f3ff.png",
         "sheet_x": 38,
         "sheet_y": 39,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "waving_hand:_dark_skin_tone",
+        "short_names": [
+            "waving_hand:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39137,8 +39471,10 @@
         "image": "1f44c-1f3fb.png",
         "sheet_x": 38,
         "sheet_y": 40,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "OK_hand:_light_skin_tone",
+        "short_names": [
+            "OK_hand:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39159,8 +39495,10 @@
         "image": "1f44c-1f3fc.png",
         "sheet_x": 38,
         "sheet_y": 41,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "OK_hand:_medium-light_skin_tone",
+        "short_names": [
+            "OK_hand:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39181,8 +39519,10 @@
         "image": "1f44c-1f3fd.png",
         "sheet_x": 38,
         "sheet_y": 42,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "OK_hand:_medium_skin_tone",
+        "short_names": [
+            "OK_hand:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39203,8 +39543,10 @@
         "image": "1f44c-1f3fe.png",
         "sheet_x": 38,
         "sheet_y": 43,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "OK_hand:_medium-dark_skin_tone",
+        "short_names": [
+            "OK_hand:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39225,8 +39567,10 @@
         "image": "1f44c-1f3ff.png",
         "sheet_x": 38,
         "sheet_y": 44,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "OK_hand:_dark_skin_tone",
+        "short_names": [
+            "OK_hand:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39247,8 +39591,10 @@
         "image": "1f44d-1f3fb.png",
         "sheet_x": 38,
         "sheet_y": 45,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "thumbs_up:_light_skin_tone",
+        "short_names": [
+            "thumbs_up:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39269,8 +39615,10 @@
         "image": "1f44d-1f3fc.png",
         "sheet_x": 38,
         "sheet_y": 46,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "thumbs_up:_medium-light_skin_tone",
+        "short_names": [
+            "thumbs_up:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39291,8 +39639,10 @@
         "image": "1f44d-1f3fd.png",
         "sheet_x": 38,
         "sheet_y": 47,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "thumbs_up:_medium_skin_tone",
+        "short_names": [
+            "thumbs_up:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39313,8 +39663,10 @@
         "image": "1f44d-1f3fe.png",
         "sheet_x": 39,
         "sheet_y": 0,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "thumbs_up:_medium-dark_skin_tone",
+        "short_names": [
+            "thumbs_up:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39335,8 +39687,10 @@
         "image": "1f44d-1f3ff.png",
         "sheet_x": 39,
         "sheet_y": 1,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "thumbs_up:_dark_skin_tone",
+        "short_names": [
+            "thumbs_up:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39357,8 +39711,10 @@
         "image": "1f44e-1f3fb.png",
         "sheet_x": 39,
         "sheet_y": 2,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "thumbs_down:_light_skin_tone",
+        "short_names": [
+            "thumbs_down:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39379,8 +39735,10 @@
         "image": "1f44e-1f3fc.png",
         "sheet_x": 39,
         "sheet_y": 3,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "thumbs_down:_medium-light_skin_tone",
+        "short_names": [
+            "thumbs_down:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39401,8 +39759,10 @@
         "image": "1f44e-1f3fd.png",
         "sheet_x": 39,
         "sheet_y": 4,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "thumbs_down:_medium_skin_tone",
+        "short_names": [
+            "thumbs_down:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39423,8 +39783,10 @@
         "image": "1f44e-1f3fe.png",
         "sheet_x": 39,
         "sheet_y": 5,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "thumbs_down:_medium-dark_skin_tone",
+        "short_names": [
+            "thumbs_down:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39445,8 +39807,10 @@
         "image": "1f44e-1f3ff.png",
         "sheet_x": 39,
         "sheet_y": 6,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "thumbs_down:_dark_skin_tone",
+        "short_names": [
+            "thumbs_down:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39467,8 +39831,10 @@
         "image": "1f44f-1f3fb.png",
         "sheet_x": 39,
         "sheet_y": 7,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "clapping_hands:_light_skin_tone",
+        "short_names": [
+            "clapping_hands:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39489,8 +39855,10 @@
         "image": "1f44f-1f3fc.png",
         "sheet_x": 39,
         "sheet_y": 8,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "clapping_hands:_medium-light_skin_tone",
+        "short_names": [
+            "clapping_hands:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39511,8 +39879,10 @@
         "image": "1f44f-1f3fd.png",
         "sheet_x": 39,
         "sheet_y": 9,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "clapping_hands:_medium_skin_tone",
+        "short_names": [
+            "clapping_hands:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39533,8 +39903,10 @@
         "image": "1f44f-1f3fe.png",
         "sheet_x": 39,
         "sheet_y": 10,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "clapping_hands:_medium-dark_skin_tone",
+        "short_names": [
+            "clapping_hands:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39555,8 +39927,10 @@
         "image": "1f44f-1f3ff.png",
         "sheet_x": 39,
         "sheet_y": 11,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "clapping_hands:_dark_skin_tone",
+        "short_names": [
+            "clapping_hands:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39577,8 +39951,10 @@
         "image": "1f450-1f3fb.png",
         "sheet_x": 39,
         "sheet_y": 12,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "open_hands:_light_skin_tone",
+        "short_names": [
+            "open_hands:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39599,8 +39975,10 @@
         "image": "1f450-1f3fc.png",
         "sheet_x": 39,
         "sheet_y": 13,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "open_hands:_medium-light_skin_tone",
+        "short_names": [
+            "open_hands:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39621,8 +39999,10 @@
         "image": "1f450-1f3fd.png",
         "sheet_x": 39,
         "sheet_y": 14,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "open_hands:_medium_skin_tone",
+        "short_names": [
+            "open_hands:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39643,8 +40023,10 @@
         "image": "1f450-1f3fe.png",
         "sheet_x": 39,
         "sheet_y": 15,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "open_hands:_medium-dark_skin_tone",
+        "short_names": [
+            "open_hands:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39665,8 +40047,10 @@
         "image": "1f450-1f3ff.png",
         "sheet_x": 39,
         "sheet_y": 16,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "open_hands:_dark_skin_tone",
+        "short_names": [
+            "open_hands:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39687,8 +40071,10 @@
         "image": "1f466-1f3fb.png",
         "sheet_x": 39,
         "sheet_y": 17,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "boy:_light_skin_tone",
+        "short_names": [
+            "boy:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39709,8 +40095,10 @@
         "image": "1f466-1f3fc.png",
         "sheet_x": 39,
         "sheet_y": 18,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "boy:_medium-light_skin_tone",
+        "short_names": [
+            "boy:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39731,8 +40119,10 @@
         "image": "1f466-1f3fd.png",
         "sheet_x": 39,
         "sheet_y": 19,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "boy:_medium_skin_tone",
+        "short_names": [
+            "boy:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39753,8 +40143,10 @@
         "image": "1f466-1f3fe.png",
         "sheet_x": 39,
         "sheet_y": 20,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "boy:_medium-dark_skin_tone",
+        "short_names": [
+            "boy:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39775,8 +40167,10 @@
         "image": "1f466-1f3ff.png",
         "sheet_x": 39,
         "sheet_y": 21,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "boy:_dark_skin_tone",
+        "short_names": [
+            "boy:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39797,8 +40191,10 @@
         "image": "1f467-1f3fb.png",
         "sheet_x": 39,
         "sheet_y": 22,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "girl:_light_skin_tone",
+        "short_names": [
+            "girl:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39819,8 +40215,10 @@
         "image": "1f467-1f3fc.png",
         "sheet_x": 39,
         "sheet_y": 23,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "girl:_medium-light_skin_tone",
+        "short_names": [
+            "girl:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39841,8 +40239,10 @@
         "image": "1f467-1f3fd.png",
         "sheet_x": 39,
         "sheet_y": 24,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "girl:_medium_skin_tone",
+        "short_names": [
+            "girl:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39863,8 +40263,10 @@
         "image": "1f467-1f3fe.png",
         "sheet_x": 39,
         "sheet_y": 25,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "girl:_medium-dark_skin_tone",
+        "short_names": [
+            "girl:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39885,8 +40287,10 @@
         "image": "1f467-1f3ff.png",
         "sheet_x": 39,
         "sheet_y": 26,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "girl:_dark_skin_tone",
+        "short_names": [
+            "girl:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39907,8 +40311,10 @@
         "image": "1f468-1f3fb.png",
         "sheet_x": 39,
         "sheet_y": 27,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man:_light_skin_tone",
+        "short_names": [
+            "man:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39929,8 +40335,10 @@
         "image": "1f468-1f3fc.png",
         "sheet_x": 39,
         "sheet_y": 28,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man:_medium-light_skin_tone",
+        "short_names": [
+            "man:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39951,8 +40359,10 @@
         "image": "1f468-1f3fd.png",
         "sheet_x": 39,
         "sheet_y": 29,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man:_medium_skin_tone",
+        "short_names": [
+            "man:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39973,8 +40383,10 @@
         "image": "1f468-1f3fe.png",
         "sheet_x": 39,
         "sheet_y": 30,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man:_medium-dark_skin_tone",
+        "short_names": [
+            "man:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -39995,8 +40407,10 @@
         "image": "1f468-1f3ff.png",
         "sheet_x": 39,
         "sheet_y": 31,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man:_dark_skin_tone",
+        "short_names": [
+            "man:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40017,8 +40431,10 @@
         "image": "1f469-1f3fb.png",
         "sheet_x": 39,
         "sheet_y": 32,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "woman:_light_skin_tone",
+        "short_names": [
+            "woman:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40039,8 +40455,10 @@
         "image": "1f469-1f3fc.png",
         "sheet_x": 39,
         "sheet_y": 33,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "woman:_medium-light_skin_tone",
+        "short_names": [
+            "woman:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40061,8 +40479,10 @@
         "image": "1f469-1f3fd.png",
         "sheet_x": 39,
         "sheet_y": 34,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "woman:_medium_skin_tone",
+        "short_names": [
+            "woman:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40083,8 +40503,10 @@
         "image": "1f469-1f3fe.png",
         "sheet_x": 39,
         "sheet_y": 35,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "woman:_medium-dark_skin_tone",
+        "short_names": [
+            "woman:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40105,8 +40527,10 @@
         "image": "1f469-1f3ff.png",
         "sheet_x": 39,
         "sheet_y": 36,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "woman:_dark_skin_tone",
+        "short_names": [
+            "woman:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40127,8 +40551,10 @@
         "image": "1f46e-1f3fb.png",
         "sheet_x": 39,
         "sheet_y": 37,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "police_officer:_light_skin_tone",
+        "short_names": [
+            "police_officer:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40149,8 +40575,10 @@
         "image": "1f46e-1f3fc.png",
         "sheet_x": 39,
         "sheet_y": 38,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "police_officer:_medium-light_skin_tone",
+        "short_names": [
+            "police_officer:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40171,8 +40599,10 @@
         "image": "1f46e-1f3fd.png",
         "sheet_x": 39,
         "sheet_y": 39,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "police_officer:_medium_skin_tone",
+        "short_names": [
+            "police_officer:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40193,8 +40623,10 @@
         "image": "1f46e-1f3fe.png",
         "sheet_x": 39,
         "sheet_y": 40,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "police_officer:_medium-dark_skin_tone",
+        "short_names": [
+            "police_officer:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40215,8 +40647,10 @@
         "image": "1f46e-1f3ff.png",
         "sheet_x": 39,
         "sheet_y": 41,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "police_officer:_dark_skin_tone",
+        "short_names": [
+            "police_officer:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40237,8 +40671,10 @@
         "image": "1f470-1f3fb.png",
         "sheet_x": 39,
         "sheet_y": 42,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "bride_with_veil:_light_skin_tone",
+        "short_names": [
+            "bride_with_veil:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40259,8 +40695,10 @@
         "image": "1f470-1f3fc.png",
         "sheet_x": 39,
         "sheet_y": 43,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "bride_with_veil:_medium-light_skin_tone",
+        "short_names": [
+            "bride_with_veil:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40281,8 +40719,10 @@
         "image": "1f470-1f3fd.png",
         "sheet_x": 39,
         "sheet_y": 44,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "bride_with_veil:_medium_skin_tone",
+        "short_names": [
+            "bride_with_veil:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40303,8 +40743,10 @@
         "image": "1f470-1f3fe.png",
         "sheet_x": 39,
         "sheet_y": 45,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "bride_with_veil:_medium-dark_skin_tone",
+        "short_names": [
+            "bride_with_veil:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40325,8 +40767,10 @@
         "image": "1f470-1f3ff.png",
         "sheet_x": 39,
         "sheet_y": 46,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "bride_with_veil:_dark_skin_tone",
+        "short_names": [
+            "bride_with_veil:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40347,8 +40791,10 @@
         "image": "1f471-1f3fb.png",
         "sheet_x": 39,
         "sheet_y": 47,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "blond-haired_person:_light_skin_tone",
+        "short_names": [
+            "blond-haired_person:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40369,8 +40815,10 @@
         "image": "1f471-1f3fc.png",
         "sheet_x": 40,
         "sheet_y": 0,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "blond-haired_person:_medium-light_skin_tone",
+        "short_names": [
+            "blond-haired_person:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40391,8 +40839,10 @@
         "image": "1f471-1f3fd.png",
         "sheet_x": 40,
         "sheet_y": 1,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "blond-haired_person:_medium_skin_tone",
+        "short_names": [
+            "blond-haired_person:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40413,8 +40863,10 @@
         "image": "1f471-1f3fe.png",
         "sheet_x": 40,
         "sheet_y": 2,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "blond-haired_person:_medium-dark_skin_tone",
+        "short_names": [
+            "blond-haired_person:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40435,8 +40887,10 @@
         "image": "1f471-1f3ff.png",
         "sheet_x": 40,
         "sheet_y": 3,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "blond-haired_person:_dark_skin_tone",
+        "short_names": [
+            "blond-haired_person:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40457,8 +40911,10 @@
         "image": "1f472-1f3fb.png",
         "sheet_x": 40,
         "sheet_y": 4,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_with_Chinese_cap:_light_skin_tone",
+        "short_names": [
+            "man_with_Chinese_cap:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40479,8 +40935,10 @@
         "image": "1f472-1f3fc.png",
         "sheet_x": 40,
         "sheet_y": 5,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_with_Chinese_cap:_medium-light_skin_tone",
+        "short_names": [
+            "man_with_Chinese_cap:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40501,8 +40959,10 @@
         "image": "1f472-1f3fd.png",
         "sheet_x": 40,
         "sheet_y": 6,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_with_Chinese_cap:_medium_skin_tone",
+        "short_names": [
+            "man_with_Chinese_cap:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40523,8 +40983,10 @@
         "image": "1f472-1f3fe.png",
         "sheet_x": 40,
         "sheet_y": 7,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_with_Chinese_cap:_medium-dark_skin_tone",
+        "short_names": [
+            "man_with_Chinese_cap:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40545,8 +41007,10 @@
         "image": "1f472-1f3ff.png",
         "sheet_x": 40,
         "sheet_y": 8,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_with_Chinese_cap:_dark_skin_tone",
+        "short_names": [
+            "man_with_Chinese_cap:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40567,8 +41031,10 @@
         "image": "1f473-1f3fb.png",
         "sheet_x": 40,
         "sheet_y": 9,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_wearing_turban:_light_skin_tone",
+        "short_names": [
+            "person_wearing_turban:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40589,8 +41055,10 @@
         "image": "1f473-1f3fc.png",
         "sheet_x": 40,
         "sheet_y": 10,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_wearing_turban:_medium-light_skin_tone",
+        "short_names": [
+            "person_wearing_turban:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40611,8 +41079,10 @@
         "image": "1f473-1f3fd.png",
         "sheet_x": 40,
         "sheet_y": 11,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_wearing_turban:_medium_skin_tone",
+        "short_names": [
+            "person_wearing_turban:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40633,8 +41103,10 @@
         "image": "1f473-1f3fe.png",
         "sheet_x": 40,
         "sheet_y": 12,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_wearing_turban:_medium-dark_skin_tone",
+        "short_names": [
+            "person_wearing_turban:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40655,8 +41127,10 @@
         "image": "1f473-1f3ff.png",
         "sheet_x": 40,
         "sheet_y": 13,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_wearing_turban:_dark_skin_tone",
+        "short_names": [
+            "person_wearing_turban:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40677,8 +41151,10 @@
         "image": "1f474-1f3fb.png",
         "sheet_x": 40,
         "sheet_y": 14,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "old_man:_light_skin_tone",
+        "short_names": [
+            "old_man:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40699,8 +41175,10 @@
         "image": "1f474-1f3fc.png",
         "sheet_x": 40,
         "sheet_y": 15,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "old_man:_medium-light_skin_tone",
+        "short_names": [
+            "old_man:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40721,8 +41199,10 @@
         "image": "1f474-1f3fd.png",
         "sheet_x": 40,
         "sheet_y": 16,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "old_man:_medium_skin_tone",
+        "short_names": [
+            "old_man:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40743,8 +41223,10 @@
         "image": "1f474-1f3fe.png",
         "sheet_x": 40,
         "sheet_y": 17,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "old_man:_medium-dark_skin_tone",
+        "short_names": [
+            "old_man:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40765,8 +41247,10 @@
         "image": "1f474-1f3ff.png",
         "sheet_x": 40,
         "sheet_y": 18,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "old_man:_dark_skin_tone",
+        "short_names": [
+            "old_man:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40787,8 +41271,10 @@
         "image": "1f475-1f3fb.png",
         "sheet_x": 40,
         "sheet_y": 19,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "old_woman:_light_skin_tone",
+        "short_names": [
+            "old_woman:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40809,8 +41295,10 @@
         "image": "1f475-1f3fc.png",
         "sheet_x": 40,
         "sheet_y": 20,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "old_woman:_medium-light_skin_tone",
+        "short_names": [
+            "old_woman:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40831,8 +41319,10 @@
         "image": "1f475-1f3fd.png",
         "sheet_x": 40,
         "sheet_y": 21,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "old_woman:_medium_skin_tone",
+        "short_names": [
+            "old_woman:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40853,8 +41343,10 @@
         "image": "1f475-1f3fe.png",
         "sheet_x": 40,
         "sheet_y": 22,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "old_woman:_medium-dark_skin_tone",
+        "short_names": [
+            "old_woman:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40875,8 +41367,10 @@
         "image": "1f475-1f3ff.png",
         "sheet_x": 40,
         "sheet_y": 23,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "old_woman:_dark_skin_tone",
+        "short_names": [
+            "old_woman:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40897,8 +41391,10 @@
         "image": "1f476-1f3fb.png",
         "sheet_x": 40,
         "sheet_y": 24,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "baby:_light_skin_tone",
+        "short_names": [
+            "baby:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40919,8 +41415,10 @@
         "image": "1f476-1f3fc.png",
         "sheet_x": 40,
         "sheet_y": 25,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "baby:_medium-light_skin_tone",
+        "short_names": [
+            "baby:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40941,8 +41439,10 @@
         "image": "1f476-1f3fd.png",
         "sheet_x": 40,
         "sheet_y": 26,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "baby:_medium_skin_tone",
+        "short_names": [
+            "baby:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40963,8 +41463,10 @@
         "image": "1f476-1f3fe.png",
         "sheet_x": 40,
         "sheet_y": 27,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "baby:_medium-dark_skin_tone",
+        "short_names": [
+            "baby:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -40985,8 +41487,10 @@
         "image": "1f476-1f3ff.png",
         "sheet_x": 40,
         "sheet_y": 28,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "baby:_dark_skin_tone",
+        "short_names": [
+            "baby:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41007,8 +41511,10 @@
         "image": "1f477-1f3fb.png",
         "sheet_x": 40,
         "sheet_y": 29,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "construction_worker:_light_skin_tone",
+        "short_names": [
+            "construction_worker:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41029,8 +41535,10 @@
         "image": "1f477-1f3fc.png",
         "sheet_x": 40,
         "sheet_y": 30,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "construction_worker:_medium-light_skin_tone",
+        "short_names": [
+            "construction_worker:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41051,8 +41559,10 @@
         "image": "1f477-1f3fd.png",
         "sheet_x": 40,
         "sheet_y": 31,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "construction_worker:_medium_skin_tone",
+        "short_names": [
+            "construction_worker:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41073,8 +41583,10 @@
         "image": "1f477-1f3fe.png",
         "sheet_x": 40,
         "sheet_y": 32,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "construction_worker:_medium-dark_skin_tone",
+        "short_names": [
+            "construction_worker:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41095,8 +41607,10 @@
         "image": "1f477-1f3ff.png",
         "sheet_x": 40,
         "sheet_y": 33,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "construction_worker:_dark_skin_tone",
+        "short_names": [
+            "construction_worker:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41117,8 +41631,10 @@
         "image": "1f478-1f3fb.png",
         "sheet_x": 40,
         "sheet_y": 34,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "princess:_light_skin_tone",
+        "short_names": [
+            "princess:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41139,8 +41655,10 @@
         "image": "1f478-1f3fc.png",
         "sheet_x": 40,
         "sheet_y": 35,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "princess:_medium-light_skin_tone",
+        "short_names": [
+            "princess:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41161,8 +41679,10 @@
         "image": "1f478-1f3fd.png",
         "sheet_x": 40,
         "sheet_y": 36,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "princess:_medium_skin_tone",
+        "short_names": [
+            "princess:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41183,8 +41703,10 @@
         "image": "1f478-1f3fe.png",
         "sheet_x": 40,
         "sheet_y": 37,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "princess:_medium-dark_skin_tone",
+        "short_names": [
+            "princess:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41205,8 +41727,10 @@
         "image": "1f478-1f3ff.png",
         "sheet_x": 40,
         "sheet_y": 38,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "princess:_dark_skin_tone",
+        "short_names": [
+            "princess:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41227,8 +41751,10 @@
         "image": "1f47c-1f3fb.png",
         "sheet_x": 40,
         "sheet_y": 39,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "baby_angel:_light_skin_tone",
+        "short_names": [
+            "baby_angel:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41249,8 +41775,10 @@
         "image": "1f47c-1f3fc.png",
         "sheet_x": 40,
         "sheet_y": 40,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "baby_angel:_medium-light_skin_tone",
+        "short_names": [
+            "baby_angel:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41271,8 +41799,10 @@
         "image": "1f47c-1f3fd.png",
         "sheet_x": 40,
         "sheet_y": 41,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "baby_angel:_medium_skin_tone",
+        "short_names": [
+            "baby_angel:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41293,8 +41823,10 @@
         "image": "1f47c-1f3fe.png",
         "sheet_x": 40,
         "sheet_y": 42,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "baby_angel:_medium-dark_skin_tone",
+        "short_names": [
+            "baby_angel:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41315,8 +41847,10 @@
         "image": "1f47c-1f3ff.png",
         "sheet_x": 40,
         "sheet_y": 43,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "baby_angel:_dark_skin_tone",
+        "short_names": [
+            "baby_angel:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41337,8 +41871,10 @@
         "image": "1f481-1f3fb.png",
         "sheet_x": 40,
         "sheet_y": 44,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_tipping_hand:_light_skin_tone",
+        "short_names": [
+            "person_tipping_hand:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41359,8 +41895,10 @@
         "image": "1f481-1f3fc.png",
         "sheet_x": 40,
         "sheet_y": 45,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_tipping_hand:_medium-light_skin_tone",
+        "short_names": [
+            "person_tipping_hand:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41381,8 +41919,10 @@
         "image": "1f481-1f3fd.png",
         "sheet_x": 40,
         "sheet_y": 46,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_tipping_hand:_medium_skin_tone",
+        "short_names": [
+            "person_tipping_hand:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41403,8 +41943,10 @@
         "image": "1f481-1f3fe.png",
         "sheet_x": 40,
         "sheet_y": 47,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_tipping_hand:_medium-dark_skin_tone",
+        "short_names": [
+            "person_tipping_hand:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41425,8 +41967,10 @@
         "image": "1f481-1f3ff.png",
         "sheet_x": 41,
         "sheet_y": 0,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_tipping_hand:_dark_skin_tone",
+        "short_names": [
+            "person_tipping_hand:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41447,8 +41991,10 @@
         "image": "1f482-1f3fb.png",
         "sheet_x": 41,
         "sheet_y": 1,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "guard:_light_skin_tone",
+        "short_names": [
+            "guard:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41469,8 +42015,10 @@
         "image": "1f482-1f3fc.png",
         "sheet_x": 41,
         "sheet_y": 2,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "guard:_medium-light_skin_tone",
+        "short_names": [
+            "guard:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41491,8 +42039,10 @@
         "image": "1f482-1f3fd.png",
         "sheet_x": 41,
         "sheet_y": 3,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "guard:_medium_skin_tone",
+        "short_names": [
+            "guard:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41513,8 +42063,10 @@
         "image": "1f482-1f3fe.png",
         "sheet_x": 41,
         "sheet_y": 4,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "guard:_medium-dark_skin_tone",
+        "short_names": [
+            "guard:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41535,8 +42087,10 @@
         "image": "1f482-1f3ff.png",
         "sheet_x": 41,
         "sheet_y": 5,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "guard:_dark_skin_tone",
+        "short_names": [
+            "guard:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41557,8 +42111,10 @@
         "image": "1f483-1f3fb.png",
         "sheet_x": 41,
         "sheet_y": 6,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "woman_dancing:_light_skin_tone",
+        "short_names": [
+            "woman_dancing:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41579,8 +42135,10 @@
         "image": "1f483-1f3fc.png",
         "sheet_x": 41,
         "sheet_y": 7,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "woman_dancing:_medium-light_skin_tone",
+        "short_names": [
+            "woman_dancing:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41601,8 +42159,10 @@
         "image": "1f483-1f3fd.png",
         "sheet_x": 41,
         "sheet_y": 8,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "woman_dancing:_medium_skin_tone",
+        "short_names": [
+            "woman_dancing:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41623,8 +42183,10 @@
         "image": "1f483-1f3fe.png",
         "sheet_x": 41,
         "sheet_y": 9,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "woman_dancing:_medium-dark_skin_tone",
+        "short_names": [
+            "woman_dancing:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41645,8 +42207,10 @@
         "image": "1f483-1f3ff.png",
         "sheet_x": 41,
         "sheet_y": 10,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "woman_dancing:_dark_skin_tone",
+        "short_names": [
+            "woman_dancing:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41667,8 +42231,10 @@
         "image": "1f485-1f3fb.png",
         "sheet_x": 41,
         "sheet_y": 11,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "nail_polish:_light_skin_tone",
+        "short_names": [
+            "nail_polish:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41689,8 +42255,10 @@
         "image": "1f485-1f3fc.png",
         "sheet_x": 41,
         "sheet_y": 12,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "nail_polish:_medium-light_skin_tone",
+        "short_names": [
+            "nail_polish:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41711,8 +42279,10 @@
         "image": "1f485-1f3fd.png",
         "sheet_x": 41,
         "sheet_y": 13,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "nail_polish:_medium_skin_tone",
+        "short_names": [
+            "nail_polish:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41733,8 +42303,10 @@
         "image": "1f485-1f3fe.png",
         "sheet_x": 41,
         "sheet_y": 14,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "nail_polish:_medium-dark_skin_tone",
+        "short_names": [
+            "nail_polish:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41755,8 +42327,10 @@
         "image": "1f485-1f3ff.png",
         "sheet_x": 41,
         "sheet_y": 15,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "nail_polish:_dark_skin_tone",
+        "short_names": [
+            "nail_polish:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41777,8 +42351,10 @@
         "image": "1f486-1f3fb.png",
         "sheet_x": 41,
         "sheet_y": 16,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_getting_massage:_light_skin_tone",
+        "short_names": [
+            "person_getting_massage:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41799,8 +42375,10 @@
         "image": "1f486-1f3fc.png",
         "sheet_x": 41,
         "sheet_y": 17,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_getting_massage:_medium-light_skin_tone",
+        "short_names": [
+            "person_getting_massage:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41821,8 +42399,10 @@
         "image": "1f486-1f3fd.png",
         "sheet_x": 41,
         "sheet_y": 18,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_getting_massage:_medium_skin_tone",
+        "short_names": [
+            "person_getting_massage:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41843,8 +42423,10 @@
         "image": "1f486-1f3fe.png",
         "sheet_x": 41,
         "sheet_y": 19,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_getting_massage:_medium-dark_skin_tone",
+        "short_names": [
+            "person_getting_massage:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41865,8 +42447,10 @@
         "image": "1f486-1f3ff.png",
         "sheet_x": 41,
         "sheet_y": 20,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_getting_massage:_dark_skin_tone",
+        "short_names": [
+            "person_getting_massage:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41887,8 +42471,10 @@
         "image": "1f487-1f3fb.png",
         "sheet_x": 41,
         "sheet_y": 21,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_getting_haircut:_light_skin_tone",
+        "short_names": [
+            "person_getting_haircut:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41909,8 +42495,10 @@
         "image": "1f487-1f3fc.png",
         "sheet_x": 41,
         "sheet_y": 22,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_getting_haircut:_medium-light_skin_tone",
+        "short_names": [
+            "person_getting_haircut:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41931,8 +42519,10 @@
         "image": "1f487-1f3fd.png",
         "sheet_x": 41,
         "sheet_y": 23,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_getting_haircut:_medium_skin_tone",
+        "short_names": [
+            "person_getting_haircut:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41953,8 +42543,10 @@
         "image": "1f487-1f3fe.png",
         "sheet_x": 41,
         "sheet_y": 24,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_getting_haircut:_medium-dark_skin_tone",
+        "short_names": [
+            "person_getting_haircut:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41975,8 +42567,10 @@
         "image": "1f487-1f3ff.png",
         "sheet_x": 41,
         "sheet_y": 25,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_getting_haircut:_dark_skin_tone",
+        "short_names": [
+            "person_getting_haircut:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -41997,8 +42591,10 @@
         "image": "1f4aa-1f3fb.png",
         "sheet_x": 41,
         "sheet_y": 26,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "flexed_biceps:_light_skin_tone",
+        "short_names": [
+            "flexed_biceps:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42019,8 +42615,10 @@
         "image": "1f4aa-1f3fc.png",
         "sheet_x": 41,
         "sheet_y": 27,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "flexed_biceps:_medium-light_skin_tone",
+        "short_names": [
+            "flexed_biceps:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42041,8 +42639,10 @@
         "image": "1f4aa-1f3fd.png",
         "sheet_x": 41,
         "sheet_y": 28,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "flexed_biceps:_medium_skin_tone",
+        "short_names": [
+            "flexed_biceps:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42063,8 +42663,10 @@
         "image": "1f4aa-1f3fe.png",
         "sheet_x": 41,
         "sheet_y": 29,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "flexed_biceps:_medium-dark_skin_tone",
+        "short_names": [
+            "flexed_biceps:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42085,8 +42687,10 @@
         "image": "1f4aa-1f3ff.png",
         "sheet_x": 41,
         "sheet_y": 30,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "flexed_biceps:_dark_skin_tone",
+        "short_names": [
+            "flexed_biceps:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42107,8 +42711,10 @@
         "image": "1f575-1f3fb.png",
         "sheet_x": 41,
         "sheet_y": 31,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "detective:_light_skin_tone",
+        "short_names": [
+            "detective:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42129,8 +42735,10 @@
         "image": "1f575-1f3fc.png",
         "sheet_x": 41,
         "sheet_y": 32,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "detective:_medium-light_skin_tone",
+        "short_names": [
+            "detective:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42151,8 +42759,10 @@
         "image": "1f575-1f3fd.png",
         "sheet_x": 41,
         "sheet_y": 33,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "detective:_medium_skin_tone",
+        "short_names": [
+            "detective:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42173,8 +42783,10 @@
         "image": "1f575-1f3fe.png",
         "sheet_x": 41,
         "sheet_y": 34,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "detective:_medium-dark_skin_tone",
+        "short_names": [
+            "detective:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42195,8 +42807,10 @@
         "image": "1f575-1f3ff.png",
         "sheet_x": 41,
         "sheet_y": 35,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "detective:_dark_skin_tone",
+        "short_names": [
+            "detective:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42217,8 +42831,10 @@
         "image": "1f57a-1f3fb.png",
         "sheet_x": 41,
         "sheet_y": 36,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_dancing:_light_skin_tone",
+        "short_names": [
+            "man_dancing:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42239,8 +42855,10 @@
         "image": "1f57a-1f3fc.png",
         "sheet_x": 41,
         "sheet_y": 37,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_dancing:_medium-light_skin_tone",
+        "short_names": [
+            "man_dancing:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42261,8 +42879,10 @@
         "image": "1f57a-1f3fd.png",
         "sheet_x": 41,
         "sheet_y": 38,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_dancing:_medium_skin_tone",
+        "short_names": [
+            "man_dancing:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42283,8 +42903,10 @@
         "image": "1f57a-1f3fe.png",
         "sheet_x": 41,
         "sheet_y": 39,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_dancing:_medium-dark_skin_tone",
+        "short_names": [
+            "man_dancing:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42305,8 +42927,10 @@
         "image": "1f57a-1f3ff.png",
         "sheet_x": 41,
         "sheet_y": 40,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_dancing:_dark_skin_tone",
+        "short_names": [
+            "man_dancing:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42327,8 +42951,10 @@
         "image": "1f590-1f3fb.png",
         "sheet_x": 41,
         "sheet_y": 41,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_hand_with_fingers_splayed:_light_skin_tone",
+        "short_names": [
+            "raised_hand_with_fingers_splayed:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42349,8 +42975,10 @@
         "image": "1f590-1f3fc.png",
         "sheet_x": 41,
         "sheet_y": 42,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_hand_with_fingers_splayed:_medium-light_skin_tone",
+        "short_names": [
+            "raised_hand_with_fingers_splayed:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42371,8 +42999,10 @@
         "image": "1f590-1f3fd.png",
         "sheet_x": 41,
         "sheet_y": 43,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_hand_with_fingers_splayed:_medium_skin_tone",
+        "short_names": [
+            "raised_hand_with_fingers_splayed:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42393,8 +43023,10 @@
         "image": "1f590-1f3fe.png",
         "sheet_x": 41,
         "sheet_y": 44,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_hand_with_fingers_splayed:_medium-dark_skin_tone",
+        "short_names": [
+            "raised_hand_with_fingers_splayed:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42415,8 +43047,10 @@
         "image": "1f590-1f3ff.png",
         "sheet_x": 41,
         "sheet_y": 45,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_hand_with_fingers_splayed:_dark_skin_tone",
+        "short_names": [
+            "raised_hand_with_fingers_splayed:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42437,8 +43071,10 @@
         "image": "1f595-1f3fb.png",
         "sheet_x": 41,
         "sheet_y": 46,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "middle_finger:_light_skin_tone",
+        "short_names": [
+            "middle_finger:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42459,8 +43095,10 @@
         "image": "1f595-1f3fc.png",
         "sheet_x": 41,
         "sheet_y": 47,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "middle_finger:_medium-light_skin_tone",
+        "short_names": [
+            "middle_finger:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42481,8 +43119,10 @@
         "image": "1f595-1f3fd.png",
         "sheet_x": 42,
         "sheet_y": 0,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "middle_finger:_medium_skin_tone",
+        "short_names": [
+            "middle_finger:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42503,8 +43143,10 @@
         "image": "1f595-1f3fe.png",
         "sheet_x": 42,
         "sheet_y": 1,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "middle_finger:_medium-dark_skin_tone",
+        "short_names": [
+            "middle_finger:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42525,8 +43167,10 @@
         "image": "1f595-1f3ff.png",
         "sheet_x": 42,
         "sheet_y": 2,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "middle_finger:_dark_skin_tone",
+        "short_names": [
+            "middle_finger:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42547,8 +43191,10 @@
         "image": "1f596-1f3fb.png",
         "sheet_x": 42,
         "sheet_y": 3,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "vulcan_salute:_light_skin_tone",
+        "short_names": [
+            "vulcan_salute:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42569,8 +43215,10 @@
         "image": "1f596-1f3fc.png",
         "sheet_x": 42,
         "sheet_y": 4,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "vulcan_salute:_medium-light_skin_tone",
+        "short_names": [
+            "vulcan_salute:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42591,8 +43239,10 @@
         "image": "1f596-1f3fd.png",
         "sheet_x": 42,
         "sheet_y": 5,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "vulcan_salute:_medium_skin_tone",
+        "short_names": [
+            "vulcan_salute:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42613,8 +43263,10 @@
         "image": "1f596-1f3fe.png",
         "sheet_x": 42,
         "sheet_y": 6,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "vulcan_salute:_medium-dark_skin_tone",
+        "short_names": [
+            "vulcan_salute:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42635,8 +43287,10 @@
         "image": "1f596-1f3ff.png",
         "sheet_x": 42,
         "sheet_y": 7,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "vulcan_salute:_dark_skin_tone",
+        "short_names": [
+            "vulcan_salute:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42657,8 +43311,10 @@
         "image": "1f645-1f3fb.png",
         "sheet_x": 42,
         "sheet_y": 8,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_gesturing_NO:_light_skin_tone",
+        "short_names": [
+            "person_gesturing_NO:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42679,8 +43335,10 @@
         "image": "1f645-1f3fc.png",
         "sheet_x": 42,
         "sheet_y": 9,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_gesturing_NO:_medium-light_skin_tone",
+        "short_names": [
+            "person_gesturing_NO:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42701,8 +43359,10 @@
         "image": "1f645-1f3fd.png",
         "sheet_x": 42,
         "sheet_y": 10,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_gesturing_NO:_medium_skin_tone",
+        "short_names": [
+            "person_gesturing_NO:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42723,8 +43383,10 @@
         "image": "1f645-1f3fe.png",
         "sheet_x": 42,
         "sheet_y": 11,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_gesturing_NO:_medium-dark_skin_tone",
+        "short_names": [
+            "person_gesturing_NO:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42745,8 +43407,10 @@
         "image": "1f645-1f3ff.png",
         "sheet_x": 42,
         "sheet_y": 12,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_gesturing_NO:_dark_skin_tone",
+        "short_names": [
+            "person_gesturing_NO:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42767,8 +43431,10 @@
         "image": "1f646-1f3fb.png",
         "sheet_x": 42,
         "sheet_y": 13,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_gesturing_OK:_light_skin_tone",
+        "short_names": [
+            "person_gesturing_OK:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42789,8 +43455,10 @@
         "image": "1f646-1f3fc.png",
         "sheet_x": 42,
         "sheet_y": 14,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_gesturing_OK:_medium-light_skin_tone",
+        "short_names": [
+            "person_gesturing_OK:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42811,8 +43479,10 @@
         "image": "1f646-1f3fd.png",
         "sheet_x": 42,
         "sheet_y": 15,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_gesturing_OK:_medium_skin_tone",
+        "short_names": [
+            "person_gesturing_OK:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42833,8 +43503,10 @@
         "image": "1f646-1f3fe.png",
         "sheet_x": 42,
         "sheet_y": 16,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_gesturing_OK:_medium-dark_skin_tone",
+        "short_names": [
+            "person_gesturing_OK:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42855,8 +43527,10 @@
         "image": "1f646-1f3ff.png",
         "sheet_x": 42,
         "sheet_y": 17,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_gesturing_OK:_dark_skin_tone",
+        "short_names": [
+            "person_gesturing_OK:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42877,8 +43551,10 @@
         "image": "1f647-1f3fb.png",
         "sheet_x": 42,
         "sheet_y": 18,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_bowing:_light_skin_tone",
+        "short_names": [
+            "person_bowing:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42899,8 +43575,10 @@
         "image": "1f647-1f3fc.png",
         "sheet_x": 42,
         "sheet_y": 19,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_bowing:_medium-light_skin_tone",
+        "short_names": [
+            "person_bowing:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42921,8 +43599,10 @@
         "image": "1f647-1f3fd.png",
         "sheet_x": 42,
         "sheet_y": 20,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_bowing:_medium_skin_tone",
+        "short_names": [
+            "person_bowing:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42943,8 +43623,10 @@
         "image": "1f647-1f3fe.png",
         "sheet_x": 42,
         "sheet_y": 21,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_bowing:_medium-dark_skin_tone",
+        "short_names": [
+            "person_bowing:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42965,8 +43647,10 @@
         "image": "1f647-1f3ff.png",
         "sheet_x": 42,
         "sheet_y": 22,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_bowing:_dark_skin_tone",
+        "short_names": [
+            "person_bowing:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -42987,8 +43671,10 @@
         "image": "1f64b-1f3fb.png",
         "sheet_x": 42,
         "sheet_y": 23,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_raising_hand:_light_skin_tone",
+        "short_names": [
+            "person_raising_hand:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43009,8 +43695,10 @@
         "image": "1f64b-1f3fc.png",
         "sheet_x": 42,
         "sheet_y": 24,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_raising_hand:_medium-light_skin_tone",
+        "short_names": [
+            "person_raising_hand:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43031,8 +43719,10 @@
         "image": "1f64b-1f3fd.png",
         "sheet_x": 42,
         "sheet_y": 25,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_raising_hand:_medium_skin_tone",
+        "short_names": [
+            "person_raising_hand:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43053,8 +43743,10 @@
         "image": "1f64b-1f3fe.png",
         "sheet_x": 42,
         "sheet_y": 26,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_raising_hand:_medium-dark_skin_tone",
+        "short_names": [
+            "person_raising_hand:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43075,8 +43767,10 @@
         "image": "1f64b-1f3ff.png",
         "sheet_x": 42,
         "sheet_y": 27,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_raising_hand:_dark_skin_tone",
+        "short_names": [
+            "person_raising_hand:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43097,8 +43791,10 @@
         "image": "1f64c-1f3fb.png",
         "sheet_x": 42,
         "sheet_y": 28,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raising_hands:_light_skin_tone",
+        "short_names": [
+            "raising_hands:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43119,8 +43815,10 @@
         "image": "1f64c-1f3fc.png",
         "sheet_x": 42,
         "sheet_y": 29,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raising_hands:_medium-light_skin_tone",
+        "short_names": [
+            "raising_hands:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43141,8 +43839,10 @@
         "image": "1f64c-1f3fd.png",
         "sheet_x": 42,
         "sheet_y": 30,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raising_hands:_medium_skin_tone",
+        "short_names": [
+            "raising_hands:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43163,8 +43863,10 @@
         "image": "1f64c-1f3fe.png",
         "sheet_x": 42,
         "sheet_y": 31,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raising_hands:_medium-dark_skin_tone",
+        "short_names": [
+            "raising_hands:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43185,8 +43887,10 @@
         "image": "1f64c-1f3ff.png",
         "sheet_x": 42,
         "sheet_y": 32,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raising_hands:_dark_skin_tone",
+        "short_names": [
+            "raising_hands:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43207,8 +43911,10 @@
         "image": "1f64d-1f3fb.png",
         "sheet_x": 42,
         "sheet_y": 33,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_frowning:_light_skin_tone",
+        "short_names": [
+            "person_frowning:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43229,8 +43935,10 @@
         "image": "1f64d-1f3fc.png",
         "sheet_x": 42,
         "sheet_y": 34,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_frowning:_medium-light_skin_tone",
+        "short_names": [
+            "person_frowning:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43251,8 +43959,10 @@
         "image": "1f64d-1f3fd.png",
         "sheet_x": 42,
         "sheet_y": 35,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_frowning:_medium_skin_tone",
+        "short_names": [
+            "person_frowning:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43273,8 +43983,10 @@
         "image": "1f64d-1f3fe.png",
         "sheet_x": 42,
         "sheet_y": 36,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_frowning:_medium-dark_skin_tone",
+        "short_names": [
+            "person_frowning:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43295,8 +44007,10 @@
         "image": "1f64d-1f3ff.png",
         "sheet_x": 42,
         "sheet_y": 37,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_frowning:_dark_skin_tone",
+        "short_names": [
+            "person_frowning:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43317,8 +44031,10 @@
         "image": "1f64e-1f3fb.png",
         "sheet_x": 42,
         "sheet_y": 38,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_pouting:_light_skin_tone",
+        "short_names": [
+            "person_pouting:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43339,8 +44055,10 @@
         "image": "1f64e-1f3fc.png",
         "sheet_x": 42,
         "sheet_y": 39,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_pouting:_medium-light_skin_tone",
+        "short_names": [
+            "person_pouting:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43361,8 +44079,10 @@
         "image": "1f64e-1f3fd.png",
         "sheet_x": 42,
         "sheet_y": 40,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_pouting:_medium_skin_tone",
+        "short_names": [
+            "person_pouting:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43383,8 +44103,10 @@
         "image": "1f64e-1f3fe.png",
         "sheet_x": 42,
         "sheet_y": 41,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_pouting:_medium-dark_skin_tone",
+        "short_names": [
+            "person_pouting:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43405,8 +44127,10 @@
         "image": "1f64e-1f3ff.png",
         "sheet_x": 42,
         "sheet_y": 42,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_pouting:_dark_skin_tone",
+        "short_names": [
+            "person_pouting:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43427,8 +44151,10 @@
         "image": "1f64f-1f3fb.png",
         "sheet_x": 42,
         "sheet_y": 43,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "folded_hands:_light_skin_tone",
+        "short_names": [
+            "folded_hands:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43449,8 +44175,10 @@
         "image": "1f64f-1f3fc.png",
         "sheet_x": 42,
         "sheet_y": 44,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "folded_hands:_medium-light_skin_tone",
+        "short_names": [
+            "folded_hands:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43471,8 +44199,10 @@
         "image": "1f64f-1f3fd.png",
         "sheet_x": 42,
         "sheet_y": 45,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "folded_hands:_medium_skin_tone",
+        "short_names": [
+            "folded_hands:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43493,8 +44223,10 @@
         "image": "1f64f-1f3fe.png",
         "sheet_x": 42,
         "sheet_y": 46,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "folded_hands:_medium-dark_skin_tone",
+        "short_names": [
+            "folded_hands:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43515,8 +44247,10 @@
         "image": "1f64f-1f3ff.png",
         "sheet_x": 42,
         "sheet_y": 47,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "folded_hands:_dark_skin_tone",
+        "short_names": [
+            "folded_hands:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43537,8 +44271,10 @@
         "image": "1f6a3-1f3fb.png",
         "sheet_x": 43,
         "sheet_y": 0,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_rowing_boat:_light_skin_tone",
+        "short_names": [
+            "person_rowing_boat:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43559,8 +44295,10 @@
         "image": "1f6a3-1f3fc.png",
         "sheet_x": 43,
         "sheet_y": 1,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_rowing_boat:_medium-light_skin_tone",
+        "short_names": [
+            "person_rowing_boat:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43581,8 +44319,10 @@
         "image": "1f6a3-1f3fd.png",
         "sheet_x": 43,
         "sheet_y": 2,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_rowing_boat:_medium_skin_tone",
+        "short_names": [
+            "person_rowing_boat:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43603,8 +44343,10 @@
         "image": "1f6a3-1f3fe.png",
         "sheet_x": 43,
         "sheet_y": 3,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_rowing_boat:_medium-dark_skin_tone",
+        "short_names": [
+            "person_rowing_boat:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43625,8 +44367,10 @@
         "image": "1f6a3-1f3ff.png",
         "sheet_x": 43,
         "sheet_y": 4,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_rowing_boat:_dark_skin_tone",
+        "short_names": [
+            "person_rowing_boat:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43647,8 +44391,10 @@
         "image": "1f6b4-1f3fb.png",
         "sheet_x": 43,
         "sheet_y": 5,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_biking:_light_skin_tone",
+        "short_names": [
+            "person_biking:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43669,8 +44415,10 @@
         "image": "1f6b4-1f3fc.png",
         "sheet_x": 43,
         "sheet_y": 6,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_biking:_medium-light_skin_tone",
+        "short_names": [
+            "person_biking:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43691,8 +44439,10 @@
         "image": "1f6b4-1f3fd.png",
         "sheet_x": 43,
         "sheet_y": 7,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_biking:_medium_skin_tone",
+        "short_names": [
+            "person_biking:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43713,8 +44463,10 @@
         "image": "1f6b4-1f3fe.png",
         "sheet_x": 43,
         "sheet_y": 8,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_biking:_medium-dark_skin_tone",
+        "short_names": [
+            "person_biking:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43735,8 +44487,10 @@
         "image": "1f6b4-1f3ff.png",
         "sheet_x": 43,
         "sheet_y": 9,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_biking:_dark_skin_tone",
+        "short_names": [
+            "person_biking:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43757,8 +44511,10 @@
         "image": "1f6b5-1f3fb.png",
         "sheet_x": 43,
         "sheet_y": 10,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_mountain_biking:_light_skin_tone",
+        "short_names": [
+            "person_mountain_biking:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43779,8 +44535,10 @@
         "image": "1f6b5-1f3fc.png",
         "sheet_x": 43,
         "sheet_y": 11,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_mountain_biking:_medium-light_skin_tone",
+        "short_names": [
+            "person_mountain_biking:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43801,8 +44559,10 @@
         "image": "1f6b5-1f3fd.png",
         "sheet_x": 43,
         "sheet_y": 12,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_mountain_biking:_medium_skin_tone",
+        "short_names": [
+            "person_mountain_biking:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43823,8 +44583,10 @@
         "image": "1f6b5-1f3fe.png",
         "sheet_x": 43,
         "sheet_y": 13,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_mountain_biking:_medium-dark_skin_tone",
+        "short_names": [
+            "person_mountain_biking:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43845,8 +44607,10 @@
         "image": "1f6b5-1f3ff.png",
         "sheet_x": 43,
         "sheet_y": 14,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_mountain_biking:_dark_skin_tone",
+        "short_names": [
+            "person_mountain_biking:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43867,8 +44631,10 @@
         "image": "1f6b6-1f3fb.png",
         "sheet_x": 43,
         "sheet_y": 15,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_walking:_light_skin_tone",
+        "short_names": [
+            "person_walking:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43889,8 +44655,10 @@
         "image": "1f6b6-1f3fc.png",
         "sheet_x": 43,
         "sheet_y": 16,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_walking:_medium-light_skin_tone",
+        "short_names": [
+            "person_walking:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43911,8 +44679,10 @@
         "image": "1f6b6-1f3fd.png",
         "sheet_x": 43,
         "sheet_y": 17,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_walking:_medium_skin_tone",
+        "short_names": [
+            "person_walking:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43933,8 +44703,10 @@
         "image": "1f6b6-1f3fe.png",
         "sheet_x": 43,
         "sheet_y": 18,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_walking:_medium-dark_skin_tone",
+        "short_names": [
+            "person_walking:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43955,8 +44727,10 @@
         "image": "1f6b6-1f3ff.png",
         "sheet_x": 43,
         "sheet_y": 19,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_walking:_dark_skin_tone",
+        "short_names": [
+            "person_walking:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43977,8 +44751,10 @@
         "image": "1f6c0-1f3fb.png",
         "sheet_x": 43,
         "sheet_y": 20,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_taking_bath:_light_skin_tone",
+        "short_names": [
+            "person_taking_bath:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -43999,8 +44775,10 @@
         "image": "1f6c0-1f3fc.png",
         "sheet_x": 43,
         "sheet_y": 21,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_taking_bath:_medium-light_skin_tone",
+        "short_names": [
+            "person_taking_bath:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44021,8 +44799,10 @@
         "image": "1f6c0-1f3fd.png",
         "sheet_x": 43,
         "sheet_y": 22,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_taking_bath:_medium_skin_tone",
+        "short_names": [
+            "person_taking_bath:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44043,8 +44823,10 @@
         "image": "1f6c0-1f3fe.png",
         "sheet_x": 43,
         "sheet_y": 23,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_taking_bath:_medium-dark_skin_tone",
+        "short_names": [
+            "person_taking_bath:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44065,8 +44847,10 @@
         "image": "1f6c0-1f3ff.png",
         "sheet_x": 43,
         "sheet_y": 24,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_taking_bath:_dark_skin_tone",
+        "short_names": [
+            "person_taking_bath:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44087,8 +44871,10 @@
         "image": "1f918-1f3fb.png",
         "sheet_x": 43,
         "sheet_y": 25,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "sign_of_the_horns:_light_skin_tone",
+        "short_names": [
+            "sign_of_the_horns:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44109,8 +44895,10 @@
         "image": "1f918-1f3fc.png",
         "sheet_x": 43,
         "sheet_y": 26,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "sign_of_the_horns:_medium-light_skin_tone",
+        "short_names": [
+            "sign_of_the_horns:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44131,8 +44919,10 @@
         "image": "1f918-1f3fd.png",
         "sheet_x": 43,
         "sheet_y": 27,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "sign_of_the_horns:_medium_skin_tone",
+        "short_names": [
+            "sign_of_the_horns:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44153,8 +44943,10 @@
         "image": "1f918-1f3fe.png",
         "sheet_x": 43,
         "sheet_y": 28,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "sign_of_the_horns:_medium-dark_skin_tone",
+        "short_names": [
+            "sign_of_the_horns:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44175,8 +44967,10 @@
         "image": "1f918-1f3ff.png",
         "sheet_x": 43,
         "sheet_y": 29,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "sign_of_the_horns:_dark_skin_tone",
+        "short_names": [
+            "sign_of_the_horns:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44197,8 +44991,10 @@
         "image": "1f919-1f3fb.png",
         "sheet_x": 43,
         "sheet_y": 30,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "call_me_hand:_light_skin_tone",
+        "short_names": [
+            "call_me_hand:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44219,8 +45015,10 @@
         "image": "1f919-1f3fc.png",
         "sheet_x": 43,
         "sheet_y": 31,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "call_me_hand:_medium-light_skin_tone",
+        "short_names": [
+            "call_me_hand:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44241,8 +45039,10 @@
         "image": "1f919-1f3fd.png",
         "sheet_x": 43,
         "sheet_y": 32,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "call_me_hand:_medium_skin_tone",
+        "short_names": [
+            "call_me_hand:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44263,8 +45063,10 @@
         "image": "1f919-1f3fe.png",
         "sheet_x": 43,
         "sheet_y": 33,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "call_me_hand:_medium-dark_skin_tone",
+        "short_names": [
+            "call_me_hand:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44285,8 +45087,10 @@
         "image": "1f919-1f3ff.png",
         "sheet_x": 43,
         "sheet_y": 34,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "call_me_hand:_dark_skin_tone",
+        "short_names": [
+            "call_me_hand:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44307,8 +45111,10 @@
         "image": "1f91a-1f3fb.png",
         "sheet_x": 43,
         "sheet_y": 35,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_back_of_hand:_light_skin_tone",
+        "short_names": [
+            "raised_back_of_hand:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44329,8 +45135,10 @@
         "image": "1f91a-1f3fc.png",
         "sheet_x": 43,
         "sheet_y": 36,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_back_of_hand:_medium-light_skin_tone",
+        "short_names": [
+            "raised_back_of_hand:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44351,8 +45159,10 @@
         "image": "1f91a-1f3fd.png",
         "sheet_x": 43,
         "sheet_y": 37,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_back_of_hand:_medium_skin_tone",
+        "short_names": [
+            "raised_back_of_hand:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44373,8 +45183,10 @@
         "image": "1f91a-1f3fe.png",
         "sheet_x": 43,
         "sheet_y": 38,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_back_of_hand:_medium-dark_skin_tone",
+        "short_names": [
+            "raised_back_of_hand:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44395,8 +45207,10 @@
         "image": "1f91a-1f3ff.png",
         "sheet_x": 43,
         "sheet_y": 39,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "raised_back_of_hand:_dark_skin_tone",
+        "short_names": [
+            "raised_back_of_hand:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44417,8 +45231,10 @@
         "image": "1f91b-1f3fb.png",
         "sheet_x": 43,
         "sheet_y": 40,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "left-facing_fist:_light_skin_tone",
+        "short_names": [
+            "left-facing_fist:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44439,8 +45255,10 @@
         "image": "1f91b-1f3fc.png",
         "sheet_x": 43,
         "sheet_y": 41,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "left-facing_fist:_medium-light_skin_tone",
+        "short_names": [
+            "left-facing_fist:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44461,8 +45279,10 @@
         "image": "1f91b-1f3fd.png",
         "sheet_x": 43,
         "sheet_y": 42,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "left-facing_fist:_medium_skin_tone",
+        "short_names": [
+            "left-facing_fist:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44483,8 +45303,10 @@
         "image": "1f91b-1f3fe.png",
         "sheet_x": 43,
         "sheet_y": 43,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "left-facing_fist:_medium-dark_skin_tone",
+        "short_names": [
+            "left-facing_fist:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44505,8 +45327,10 @@
         "image": "1f91b-1f3ff.png",
         "sheet_x": 43,
         "sheet_y": 44,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "left-facing_fist:_dark_skin_tone",
+        "short_names": [
+            "left-facing_fist:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44527,8 +45351,10 @@
         "image": "1f91c-1f3fb.png",
         "sheet_x": 43,
         "sheet_y": 45,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "right-facing_fist:_light_skin_tone",
+        "short_names": [
+            "right-facing_fist:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44549,8 +45375,10 @@
         "image": "1f91c-1f3fc.png",
         "sheet_x": 43,
         "sheet_y": 46,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "right-facing_fist:_medium-light_skin_tone",
+        "short_names": [
+            "right-facing_fist:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44571,8 +45399,10 @@
         "image": "1f91c-1f3fd.png",
         "sheet_x": 43,
         "sheet_y": 47,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "right-facing_fist:_medium_skin_tone",
+        "short_names": [
+            "right-facing_fist:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44593,8 +45423,10 @@
         "image": "1f91c-1f3fe.png",
         "sheet_x": 44,
         "sheet_y": 0,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "right-facing_fist:_medium-dark_skin_tone",
+        "short_names": [
+            "right-facing_fist:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44615,8 +45447,10 @@
         "image": "1f91c-1f3ff.png",
         "sheet_x": 44,
         "sheet_y": 1,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "right-facing_fist:_dark_skin_tone",
+        "short_names": [
+            "right-facing_fist:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44637,8 +45471,10 @@
         "image": "1f91d-1f3fb.png",
         "sheet_x": 44,
         "sheet_y": 2,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "handshake:_light_skin_tone",
+        "short_names": [
+            "handshake:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44659,8 +45495,10 @@
         "image": "1f91d-1f3fc.png",
         "sheet_x": 44,
         "sheet_y": 3,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "handshake:_medium-light_skin_tone",
+        "short_names": [
+            "handshake:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44681,8 +45519,10 @@
         "image": "1f91d-1f3fd.png",
         "sheet_x": 44,
         "sheet_y": 4,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "handshake:_medium_skin_tone",
+        "short_names": [
+            "handshake:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44703,8 +45543,10 @@
         "image": "1f91d-1f3fe.png",
         "sheet_x": 44,
         "sheet_y": 5,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "handshake:_medium-dark_skin_tone",
+        "short_names": [
+            "handshake:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44725,8 +45567,10 @@
         "image": "1f91d-1f3ff.png",
         "sheet_x": 44,
         "sheet_y": 6,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "handshake:_dark_skin_tone",
+        "short_names": [
+            "handshake:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44747,8 +45591,10 @@
         "image": "1f91e-1f3fb.png",
         "sheet_x": 44,
         "sheet_y": 7,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "crossed_fingers:_light_skin_tone",
+        "short_names": [
+            "crossed_fingers:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44769,8 +45615,10 @@
         "image": "1f91e-1f3fc.png",
         "sheet_x": 44,
         "sheet_y": 8,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "crossed_fingers:_medium-light_skin_tone",
+        "short_names": [
+            "crossed_fingers:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44791,8 +45639,10 @@
         "image": "1f91e-1f3fd.png",
         "sheet_x": 44,
         "sheet_y": 9,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "crossed_fingers:_medium_skin_tone",
+        "short_names": [
+            "crossed_fingers:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44813,8 +45663,10 @@
         "image": "1f91e-1f3fe.png",
         "sheet_x": 44,
         "sheet_y": 10,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "crossed_fingers:_medium-dark_skin_tone",
+        "short_names": [
+            "crossed_fingers:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44835,8 +45687,10 @@
         "image": "1f91e-1f3ff.png",
         "sheet_x": 44,
         "sheet_y": 11,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "crossed_fingers:_dark_skin_tone",
+        "short_names": [
+            "crossed_fingers:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44857,8 +45711,10 @@
         "image": "1f926-1f3fb.png",
         "sheet_x": 44,
         "sheet_y": 12,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_facepalming:_light_skin_tone",
+        "short_names": [
+            "person_facepalming:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44879,8 +45735,10 @@
         "image": "1f926-1f3fc.png",
         "sheet_x": 44,
         "sheet_y": 13,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_facepalming:_medium-light_skin_tone",
+        "short_names": [
+            "person_facepalming:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44901,8 +45759,10 @@
         "image": "1f926-1f3fd.png",
         "sheet_x": 44,
         "sheet_y": 14,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_facepalming:_medium_skin_tone",
+        "short_names": [
+            "person_facepalming:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44923,8 +45783,10 @@
         "image": "1f926-1f3fe.png",
         "sheet_x": 44,
         "sheet_y": 15,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_facepalming:_medium-dark_skin_tone",
+        "short_names": [
+            "person_facepalming:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44945,8 +45807,10 @@
         "image": "1f926-1f3ff.png",
         "sheet_x": 44,
         "sheet_y": 16,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_facepalming:_dark_skin_tone",
+        "short_names": [
+            "person_facepalming:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44967,8 +45831,10 @@
         "image": "1f930-1f3fb.png",
         "sheet_x": 44,
         "sheet_y": 17,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "pregnant_woman:_light_skin_tone",
+        "short_names": [
+            "pregnant_woman:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -44989,8 +45855,10 @@
         "image": "1f930-1f3fc.png",
         "sheet_x": 44,
         "sheet_y": 18,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "pregnant_woman:_medium-light_skin_tone",
+        "short_names": [
+            "pregnant_woman:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45011,8 +45879,10 @@
         "image": "1f930-1f3fd.png",
         "sheet_x": 44,
         "sheet_y": 19,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "pregnant_woman:_medium_skin_tone",
+        "short_names": [
+            "pregnant_woman:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45033,8 +45903,10 @@
         "image": "1f930-1f3fe.png",
         "sheet_x": 44,
         "sheet_y": 20,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "pregnant_woman:_medium-dark_skin_tone",
+        "short_names": [
+            "pregnant_woman:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45055,8 +45927,10 @@
         "image": "1f930-1f3ff.png",
         "sheet_x": 44,
         "sheet_y": 21,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "pregnant_woman:_dark_skin_tone",
+        "short_names": [
+            "pregnant_woman:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45077,8 +45951,10 @@
         "image": "1f933-1f3fb.png",
         "sheet_x": 44,
         "sheet_y": 22,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "selfie:_light_skin_tone",
+        "short_names": [
+            "selfie:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45099,8 +45975,10 @@
         "image": "1f933-1f3fc.png",
         "sheet_x": 44,
         "sheet_y": 23,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "selfie:_medium-light_skin_tone",
+        "short_names": [
+            "selfie:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45121,8 +45999,10 @@
         "image": "1f933-1f3fd.png",
         "sheet_x": 44,
         "sheet_y": 24,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "selfie:_medium_skin_tone",
+        "short_names": [
+            "selfie:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45143,8 +46023,10 @@
         "image": "1f933-1f3fe.png",
         "sheet_x": 44,
         "sheet_y": 25,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "selfie:_medium-dark_skin_tone",
+        "short_names": [
+            "selfie:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45165,8 +46047,10 @@
         "image": "1f933-1f3ff.png",
         "sheet_x": 44,
         "sheet_y": 26,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "selfie:_dark_skin_tone",
+        "short_names": [
+            "selfie:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45187,8 +46071,10 @@
         "image": "1f934-1f3fb.png",
         "sheet_x": 44,
         "sheet_y": 27,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "prince:_light_skin_tone",
+        "short_names": [
+            "prince:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45209,8 +46095,10 @@
         "image": "1f934-1f3fc.png",
         "sheet_x": 44,
         "sheet_y": 28,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "prince:_medium-light_skin_tone",
+        "short_names": [
+            "prince:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45231,8 +46119,10 @@
         "image": "1f934-1f3fd.png",
         "sheet_x": 44,
         "sheet_y": 29,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "prince:_medium_skin_tone",
+        "short_names": [
+            "prince:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45253,8 +46143,10 @@
         "image": "1f934-1f3fe.png",
         "sheet_x": 44,
         "sheet_y": 30,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "prince:_medium-dark_skin_tone",
+        "short_names": [
+            "prince:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45275,8 +46167,10 @@
         "image": "1f934-1f3ff.png",
         "sheet_x": 44,
         "sheet_y": 31,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "prince:_dark_skin_tone",
+        "short_names": [
+            "prince:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45297,8 +46191,10 @@
         "image": "1f935-1f3fb.png",
         "sheet_x": 44,
         "sheet_y": 32,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_in_tuxedo:_light_skin_tone",
+        "short_names": [
+            "man_in_tuxedo:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45319,8 +46215,10 @@
         "image": "1f935-1f3fc.png",
         "sheet_x": 44,
         "sheet_y": 33,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_in_tuxedo:_medium-light_skin_tone",
+        "short_names": [
+            "man_in_tuxedo:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45341,8 +46239,10 @@
         "image": "1f935-1f3fd.png",
         "sheet_x": 44,
         "sheet_y": 34,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_in_tuxedo:_medium_skin_tone",
+        "short_names": [
+            "man_in_tuxedo:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45363,8 +46263,10 @@
         "image": "1f935-1f3fe.png",
         "sheet_x": 44,
         "sheet_y": 35,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_in_tuxedo:_medium-dark_skin_tone",
+        "short_names": [
+            "man_in_tuxedo:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45385,8 +46287,10 @@
         "image": "1f935-1f3ff.png",
         "sheet_x": 44,
         "sheet_y": 36,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "man_in_tuxedo:_dark_skin_tone",
+        "short_names": [
+            "man_in_tuxedo:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45407,8 +46311,10 @@
         "image": "1f936-1f3fb.png",
         "sheet_x": 44,
         "sheet_y": 37,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "Mrs._Claus:_light_skin_tone",
+        "short_names": [
+            "Mrs._Claus:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45429,8 +46335,10 @@
         "image": "1f936-1f3fc.png",
         "sheet_x": 44,
         "sheet_y": 38,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "Mrs._Claus:_medium-light_skin_tone",
+        "short_names": [
+            "Mrs._Claus:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45451,8 +46359,10 @@
         "image": "1f936-1f3fd.png",
         "sheet_x": 44,
         "sheet_y": 39,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "Mrs._Claus:_medium_skin_tone",
+        "short_names": [
+            "Mrs._Claus:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45473,8 +46383,10 @@
         "image": "1f936-1f3fe.png",
         "sheet_x": 44,
         "sheet_y": 40,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "Mrs._Claus:_medium-dark_skin_tone",
+        "short_names": [
+            "Mrs._Claus:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45495,8 +46407,10 @@
         "image": "1f936-1f3ff.png",
         "sheet_x": 44,
         "sheet_y": 41,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "Mrs._Claus:_dark_skin_tone",
+        "short_names": [
+            "Mrs._Claus:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45517,8 +46431,10 @@
         "image": "1f937-1f3fb.png",
         "sheet_x": 44,
         "sheet_y": 42,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_shrugging:_light_skin_tone",
+        "short_names": [
+            "person_shrugging:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45539,8 +46455,10 @@
         "image": "1f937-1f3fc.png",
         "sheet_x": 44,
         "sheet_y": 43,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_shrugging:_medium-light_skin_tone",
+        "short_names": [
+            "person_shrugging:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45561,8 +46479,10 @@
         "image": "1f937-1f3fd.png",
         "sheet_x": 44,
         "sheet_y": 44,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_shrugging:_medium_skin_tone",
+        "short_names": [
+            "person_shrugging:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45583,8 +46503,10 @@
         "image": "1f937-1f3fe.png",
         "sheet_x": 44,
         "sheet_y": 45,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_shrugging:_medium-dark_skin_tone",
+        "short_names": [
+            "person_shrugging:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45605,8 +46527,10 @@
         "image": "1f937-1f3ff.png",
         "sheet_x": 44,
         "sheet_y": 46,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_shrugging:_dark_skin_tone",
+        "short_names": [
+            "person_shrugging:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45627,8 +46551,10 @@
         "image": "1f938-1f3fb.png",
         "sheet_x": 44,
         "sheet_y": 47,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_cartwheeling:_light_skin_tone",
+        "short_names": [
+            "person_cartwheeling:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45649,8 +46575,10 @@
         "image": "1f938-1f3fc.png",
         "sheet_x": 45,
         "sheet_y": 0,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_cartwheeling:_medium-light_skin_tone",
+        "short_names": [
+            "person_cartwheeling:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45671,8 +46599,10 @@
         "image": "1f938-1f3fd.png",
         "sheet_x": 45,
         "sheet_y": 1,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_cartwheeling:_medium_skin_tone",
+        "short_names": [
+            "person_cartwheeling:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45693,8 +46623,10 @@
         "image": "1f938-1f3fe.png",
         "sheet_x": 45,
         "sheet_y": 2,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_cartwheeling:_medium-dark_skin_tone",
+        "short_names": [
+            "person_cartwheeling:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45715,8 +46647,10 @@
         "image": "1f938-1f3ff.png",
         "sheet_x": 45,
         "sheet_y": 3,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_cartwheeling:_dark_skin_tone",
+        "short_names": [
+            "person_cartwheeling:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45737,8 +46671,10 @@
         "image": "1f939-1f3fb.png",
         "sheet_x": 45,
         "sheet_y": 4,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_juggling:_light_skin_tone",
+        "short_names": [
+            "person_juggling:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45759,8 +46695,10 @@
         "image": "1f939-1f3fc.png",
         "sheet_x": 45,
         "sheet_y": 5,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_juggling:_medium-light_skin_tone",
+        "short_names": [
+            "person_juggling:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45781,8 +46719,10 @@
         "image": "1f939-1f3fd.png",
         "sheet_x": 45,
         "sheet_y": 6,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_juggling:_medium_skin_tone",
+        "short_names": [
+            "person_juggling:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45803,8 +46743,10 @@
         "image": "1f939-1f3fe.png",
         "sheet_x": 45,
         "sheet_y": 7,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_juggling:_medium-dark_skin_tone",
+        "short_names": [
+            "person_juggling:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45825,8 +46767,10 @@
         "image": "1f939-1f3ff.png",
         "sheet_x": 45,
         "sheet_y": 8,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_juggling:_dark_skin_tone",
+        "short_names": [
+            "person_juggling:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45847,8 +46791,10 @@
         "image": "1f93c-1f3fb.png",
         "sheet_x": 45,
         "sheet_y": 9,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "people_wrestling:_light_skin_tone",
+        "short_names": [
+            "people_wrestling:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45869,8 +46815,10 @@
         "image": "1f93c-1f3fc.png",
         "sheet_x": 45,
         "sheet_y": 10,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "people_wrestling:_medium-light_skin_tone",
+        "short_names": [
+            "people_wrestling:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45891,8 +46839,10 @@
         "image": "1f93c-1f3fd.png",
         "sheet_x": 45,
         "sheet_y": 11,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "people_wrestling:_medium_skin_tone",
+        "short_names": [
+            "people_wrestling:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45913,8 +46863,10 @@
         "image": "1f93c-1f3fe.png",
         "sheet_x": 45,
         "sheet_y": 12,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "people_wrestling:_medium-dark_skin_tone",
+        "short_names": [
+            "people_wrestling:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45935,8 +46887,10 @@
         "image": "1f93c-1f3ff.png",
         "sheet_x": 45,
         "sheet_y": 13,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "people_wrestling:_dark_skin_tone",
+        "short_names": [
+            "people_wrestling:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45957,8 +46911,10 @@
         "image": "1f93d-1f3fb.png",
         "sheet_x": 45,
         "sheet_y": 14,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_playing_water_polo:_light_skin_tone",
+        "short_names": [
+            "person_playing_water_polo:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -45979,8 +46935,10 @@
         "image": "1f93d-1f3fc.png",
         "sheet_x": 45,
         "sheet_y": 15,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_playing_water_polo:_medium-light_skin_tone",
+        "short_names": [
+            "person_playing_water_polo:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -46001,8 +46959,10 @@
         "image": "1f93d-1f3fd.png",
         "sheet_x": 45,
         "sheet_y": 16,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_playing_water_polo:_medium_skin_tone",
+        "short_names": [
+            "person_playing_water_polo:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -46023,8 +46983,10 @@
         "image": "1f93d-1f3fe.png",
         "sheet_x": 45,
         "sheet_y": 17,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_playing_water_polo:_medium-dark_skin_tone",
+        "short_names": [
+            "person_playing_water_polo:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -46045,8 +47007,10 @@
         "image": "1f93d-1f3ff.png",
         "sheet_x": 45,
         "sheet_y": 18,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_playing_water_polo:_dark_skin_tone",
+        "short_names": [
+            "person_playing_water_polo:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -46067,8 +47031,10 @@
         "image": "1f93e-1f3fb.png",
         "sheet_x": 45,
         "sheet_y": 19,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_playing_handball:_light_skin_tone",
+        "short_names": [
+            "person_playing_handball:_light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -46089,8 +47055,10 @@
         "image": "1f93e-1f3fc.png",
         "sheet_x": 45,
         "sheet_y": 20,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_playing_handball:_medium-light_skin_tone",
+        "short_names": [
+            "person_playing_handball:_medium-light_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -46111,8 +47079,10 @@
         "image": "1f93e-1f3fd.png",
         "sheet_x": 45,
         "sheet_y": 21,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_playing_handball:_medium_skin_tone",
+        "short_names": [
+            "person_playing_handball:_medium_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -46133,8 +47103,10 @@
         "image": "1f93e-1f3fe.png",
         "sheet_x": 45,
         "sheet_y": 22,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_playing_handball:_medium-dark_skin_tone",
+        "short_names": [
+            "person_playing_handball:_medium-dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -46155,8 +47127,10 @@
         "image": "1f93e-1f3ff.png",
         "sheet_x": 45,
         "sheet_y": 23,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "person_playing_handball:_dark_skin_tone",
+        "short_names": [
+            "person_playing_handball:_dark_skin_tone"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -46177,12 +47151,14 @@
         "image": "0023-fe0f-20e3.png",
         "sheet_x": 45,
         "sheet_y": 24,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "keycap:_#",
+        "short_names": [
+            "keycap:_#"
+        ],
         "text": null,
         "texts": null,
         "category": "Symbols",
-        "sort_order": 178,
+        "sort_order": 191,
         "has_img_apple": false,
         "has_img_google": false,
         "has_img_twitter": true,
@@ -46199,12 +47175,14 @@
         "image": "002a-fe0f-20e3.png",
         "sheet_x": 45,
         "sheet_y": 25,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "keycap:_*",
+        "short_names": [
+            "keycap:_*"
+        ],
         "text": null,
         "texts": null,
         "category": "Symbols",
-        "sort_order": 179,
+        "sort_order": 192,
         "has_img_apple": false,
         "has_img_google": false,
         "has_img_twitter": true,
@@ -46221,8 +47199,10 @@
         "image": "0030-fe0f-20e3.png",
         "sheet_x": 45,
         "sheet_y": 26,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "keycap:_0",
+        "short_names": [
+            "keycap:_0"
+        ],
         "text": null,
         "texts": null,
         "category": "Symbols",
@@ -46243,12 +47223,14 @@
         "image": "0031-fe0f-20e3.png",
         "sheet_x": 45,
         "sheet_y": 27,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "keycap:_1",
+        "short_names": [
+            "keycap:_1"
+        ],
         "text": null,
         "texts": null,
         "category": "Symbols",
-        "sort_order": 135,
+        "sort_order": 136,
         "has_img_apple": false,
         "has_img_google": false,
         "has_img_twitter": true,
@@ -46265,12 +47247,14 @@
         "image": "0032-fe0f-20e3.png",
         "sheet_x": 45,
         "sheet_y": 28,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "keycap:_2",
+        "short_names": [
+            "keycap:_2"
+        ],
         "text": null,
         "texts": null,
         "category": "Symbols",
-        "sort_order": 136,
+        "sort_order": 138,
         "has_img_apple": false,
         "has_img_google": false,
         "has_img_twitter": true,
@@ -46287,12 +47271,14 @@
         "image": "0033-fe0f-20e3.png",
         "sheet_x": 45,
         "sheet_y": 29,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "keycap:_3",
+        "short_names": [
+            "keycap:_3"
+        ],
         "text": null,
         "texts": null,
         "category": "Symbols",
-        "sort_order": 137,
+        "sort_order": 140,
         "has_img_apple": false,
         "has_img_google": false,
         "has_img_twitter": true,
@@ -46309,12 +47295,14 @@
         "image": "0034-fe0f-20e3.png",
         "sheet_x": 45,
         "sheet_y": 30,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "keycap:_4",
+        "short_names": [
+            "keycap:_4"
+        ],
         "text": null,
         "texts": null,
         "category": "Symbols",
-        "sort_order": 138,
+        "sort_order": 143,
         "has_img_apple": false,
         "has_img_google": false,
         "has_img_twitter": true,
@@ -46331,12 +47319,14 @@
         "image": "0035-fe0f-20e3.png",
         "sheet_x": 45,
         "sheet_y": 31,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "keycap:_5",
+        "short_names": [
+            "keycap:_5"
+        ],
         "text": null,
         "texts": null,
         "category": "Symbols",
-        "sort_order": 139,
+        "sort_order": 145,
         "has_img_apple": false,
         "has_img_google": false,
         "has_img_twitter": true,
@@ -46353,12 +47343,14 @@
         "image": "0036-fe0f-20e3.png",
         "sheet_x": 45,
         "sheet_y": 32,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "keycap:_6",
+        "short_names": [
+            "keycap:_6"
+        ],
         "text": null,
         "texts": null,
         "category": "Symbols",
-        "sort_order": 140,
+        "sort_order": 146,
         "has_img_apple": false,
         "has_img_google": false,
         "has_img_twitter": true,
@@ -46375,12 +47367,14 @@
         "image": "0037-fe0f-20e3.png",
         "sheet_x": 45,
         "sheet_y": 33,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "keycap:_7",
+        "short_names": [
+            "keycap:_7"
+        ],
         "text": null,
         "texts": null,
         "category": "Symbols",
-        "sort_order": 141,
+        "sort_order": 148,
         "has_img_apple": false,
         "has_img_google": false,
         "has_img_twitter": true,
@@ -46397,12 +47391,14 @@
         "image": "0038-fe0f-20e3.png",
         "sheet_x": 45,
         "sheet_y": 34,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "keycap:_8",
+        "short_names": [
+            "keycap:_8"
+        ],
         "text": null,
         "texts": null,
         "category": "Symbols",
-        "sort_order": 142,
+        "sort_order": 151,
         "has_img_apple": false,
         "has_img_google": false,
         "has_img_twitter": true,
@@ -46419,12 +47415,14 @@
         "image": "0039-fe0f-20e3.png",
         "sheet_x": 45,
         "sheet_y": 35,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "keycap:_9",
+        "short_names": [
+            "keycap:_9"
+        ],
         "text": null,
         "texts": null,
         "category": "Symbols",
-        "sort_order": 255,
+        "sort_order": 152,
         "has_img_apple": false,
         "has_img_google": false,
         "has_img_twitter": true,
@@ -46441,12 +47439,14 @@
         "image": "1f441-200d-1f5e8.png",
         "sheet_x": 45,
         "sheet_y": 36,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "eye_in_speech_bubble",
+        "short_names": [
+            "eye_in_speech_bubble"
+        ],
         "text": null,
         "texts": null,
         "category": "Symbols",
-        "sort_order": 242,
+        "sort_order": 255,
         "has_img_apple": false,
         "has_img_google": false,
         "has_img_twitter": true,
@@ -46583,8 +47583,10 @@
         "image": "1f468-200d-1f469-200d-1f466.png",
         "sheet_x": 45,
         "sheet_y": 42,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "family:_man,_woman,_boy",
+        "short_names": [
+            "family:_man,_woman,_boy"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -46869,8 +47871,10 @@
         "image": "1f469-200d-2764-fe0f-200d-1f468.png",
         "sheet_x": 46,
         "sheet_y": 6,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "couple_with_heart:_woman,_man",
+        "short_names": [
+            "couple_with_heart:_woman,_man"
+        ],
         "text": null,
         "texts": null,
         "category": null,
@@ -46915,8 +47919,10 @@
         "image": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468.png",
         "sheet_x": 46,
         "sheet_y": 8,
-        "short_name": null,
-        "short_names": [],
+        "short_name": "kiss:_woman,_man",
+        "short_names": [
+            "kiss:_woman,_man"
+        ],
         "text": null,
         "texts": null,
         "category": null,
