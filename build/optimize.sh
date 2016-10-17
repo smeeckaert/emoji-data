@@ -58,7 +58,7 @@ optipng() {
 	OPTI=$(expr $LEVEL + 1)
 	if [ $OPTI -gt 7 ]; then OPTI=7; fi
 	if [ $OPTI -lt 3 ]; then OPTI=3; fi
-	CMD="/usr/local/bin/optipng -o$OPTI -quiet \"$OUT\""
+	CMD="optipng -o$OPTI -quiet \"$OUT\""
 }
 
 pngout() {

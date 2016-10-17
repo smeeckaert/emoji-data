@@ -8,9 +8,9 @@ You can rebuild by following these steps:
 	cd build/
 
 	# Rebuild catalog.php from the original data tables
-	wget http://www.unicode.org/~scherer/emoji4unicode/snapshot/full.html
+	wget http://unicode.org/emoji/charts/full-emoji-list.html
 	patch < source_html.patch
-	php build_catalog.php full.html > catalog.php
+	php build_catalog.php full-emoji-list.html > catalog.php
 
 	# Rebuild the master mapping
 	./download_spec_files.sh

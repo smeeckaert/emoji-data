@@ -348,7 +348,7 @@
 
 		$vars = $GLOBALS['variations'][$img_key];
 		if (!is_array($vars)) $vars = array();
-		foreach ($vars as $k => $v) $vars[$k] = StrToUpper($v);	
+		foreach ($vars as $k => $v) $vars[$k] = StrToUpper($v);
 
 		if (!is_array($shorts)) $shorts = array();
 		$short = count($shorts) ? $shorts[0] : null;

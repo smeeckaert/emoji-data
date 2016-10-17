@@ -25,7 +25,7 @@
 
 	foreach ($all_trs as $item){
 
-		if ($item->getAttribute('class') == 'not_in_proposal'){
+		/*if ($item->getAttribute('class') == 'not_in_proposal'){
 			continue;
 		}
 
@@ -35,7 +35,7 @@
 
 		if (!(7 === count(get_elts_by_tag($item, 'td')))){
 			continue;
-		}
+		}*/
 
 		$trs[] = $item;
 	}
@@ -53,14 +53,20 @@
 
 		$tds = get_elts_by_tag($tr, 'td');
 
+        if (empty($tds)) {
+            continue;
+        }
+
+        // Not sure what the mapis is about
+        // We should find an other way to get the docomo/au/...
 		$item = array(
-			'mapid'		=> parse_mapid($tds[0]),
+			//'mapid'		=> parse_mapid($tds[0]),
 			'unicode'	=> parse_unicode($tds[1]),
-			'char_name'	=> parse_char_name($tds[2]),
-			'docomo'	=> parse_mobile($tds[3]),
-			'au'		=> parse_mobile($tds[4]),
-			'softbank'	=> parse_mobile($tds[5]),
-			'google'	=> parse_google($tds[6]),
+			'char_name'	=> parse_char_name($tds[15]),
+			//'docomo'	=> parse_mobile($tds[3]),
+			//'au'		=> parse_mobile($tds[4]),
+			//'softbank'	=> parse_mobile($tds[5]),
+			//'google'	=> parse_google($tds[6]),
 		);
 
 		$items[] = $item;
@@ -110,8 +116,13 @@ function parse_mapid($elt) {
 }
 
 function parse_unicode($elt) {
+    $links = get_elts_by_tag($elt, 'a');
+    // We throw away the toned emojis for now
+    if(empty($links)|| count($links) > 1) {
+        return null;
+    }
 	//like U+1F469
-	return get_unicode_chars($elt);
+	return get_unicode_chars($links[0]);
 }
 
 function parse_char_name($elt) {
@@ -181,7 +192,7 @@ function filter_only_kaomoji($mapping) {
 
 		if(isset($map['docomo']['kaomoji'])
 			&& isset($map['au']['kaomoji'])
-			&& isset($map['softbank']['kaomoji'])) 
+			&& isset($map['softbank']['kaomoji']))
 		{
 			continue;
 		}
@@ -198,9 +209,9 @@ function filter_chars_group($mapping) {
 	$result = array();
 	foreach($mapping as $map) {
 
-		if( @preg_match('/\+$/', $map['docomo']['number']) 
-			|| @preg_match('/\+$/', $map['au']['number']) 
-			|| @preg_match('/\+$/', $map['softbank']['number']) 
+		if( @preg_match('/\+$/', $map['docomo']['number'])
+			|| @preg_match('/\+$/', $map['au']['number'])
+			|| @preg_match('/\+$/', $map['softbank']['number'])
 		){
 			continue;
 		}
@@ -217,17 +228,17 @@ function fix_geta_mark($mapping) {
 
 	foreach($mapping as $map) {
 
-		if(isset($map['docomo']['kaomoji']) 
+		if(isset($map['docomo']['kaomoji'])
 			&& $map['docomo']['kaomoji'] == '〓') {
 			$map['docomo']['kaomoji'] = '';
 		}
 
-		if(isset($map['au']['kaomoji']) 
+		if(isset($map['au']['kaomoji'])
 			&& $map['au']['kaomoji'] == '〓') {
 			$map['au']['kaomoji'] = '';
 		}
 
-		if(isset($map['softbank']['kaomoji']) 
+		if(isset($map['softbank']['kaomoji'])
 			&& $map['softbank']['kaomoji'] == '〓') {
 			$map['softbank']['kaomoji'] = '';
 		}
